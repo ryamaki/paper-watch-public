@@ -1,76 +1,91 @@
-# Paper candidates for 2026-10-08
+# Paper candidates for 2026-10-09
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 9
-- records available privately: 9
+- records listed: 11
+- records available privately: 11
 
 ## Candidates
 
-### 1. Visualizing Synaptic Disruptions in the Release and Regulation of Dopamine Hotspots in Huntington's Disease
+### 1. Mapping Mesolimbic Dopamine Projections to Subcortical Circuits Underlying Adaptive Behavior: A Human 7T Diffusion Tractography Atlas
 
-- authors: Yang, S. J., Komatsu, N., Butler, B., Del Bonis-O'Donnell, J. T., Giordani, F., Irrinki, A., Schaffer, D. V., Landry, M. P.
-- venue/date: Journal of Neuroscience / 2026-10-08
-- url: http://www.jneurosci.org/cgi/content/short/46/40/e1862242026
+- first/last authors: Elliott, B. L. ... Murty, V. P.
+- venue/date: bioRxiv / 2026-10-06
+- doi: 10.64898/2026.09.22.753583
+- url: https://doi.org/10.64898/2026.09.22.753583
 
-### 2. Dopamine release-associated striatal blood oxygenation and whole-brain dynamics during associative learning
+### 2. Reward function compression facilitates goal-dependent reinforcement learning
 
-- first/last authors: Amir Lawen, Isabella K. Succi, Daniela Lichtman, Darcy S. Peterka, Ishmail J. Abdus-Saboor, Itamar Kahn ... Itamar Kahn
-- venue/date: Science Advances / 2026-10-07
-- doi: 10.1126/sciadv.aed0935
-- pmid: 42842683
-- url: https://www.science.org/doi/abs/10.1126/sciadv.aed0935
+- first/last authors: Gaia Molinaro ... Anne G. E. Collins
+- venue/date: Nature Communications / 2026-10-08
+- doi: 10.1038/s41467-026-78295-1
+- url: https://www.nature.com/articles/s41467-026-78295-1
 
-### 3. Reduced model-based control in gambling disorder despite seemingly intact neural value and task structure representations.
+### 3. Distinct goal location beta frequency dynamics in hippocampus and prefrontal cortex across learning
 
-- first/last authors: Angela Brands ... Jan Peters
-- venue/date: Journal of behavioral addictions / 2026-10-06
-- doi: 10.1556/2006.2025.00424
-- pmid: 42842308
-- url: https://pubmed.ncbi.nlm.nih.gov/42842308
+- first/last authors: Wang, G. ... Yu, J.
+- venue/date: bioRxiv / 2026-10-06
+- doi: 10.1101/2025.08.11.669642
+- url: https://doi.org/10.1101/2025.08.11.669642
 
-### 4. Habit Learning Shapes Activity Dynamics in the Central Nucleus of the Amygdala
+### 4. Mapping social relevance in affective scenes: A large-scale multidimensional rating study.
 
-- authors: Amaya, K. A., Carmichael, J. E., Stott, J. J., Townsend, E. S., Bien, E. A., Palmer, J. A., Smith, K. S.
-- venue/date: Journal of Neuroscience / 2026-10-08
-- url: http://www.jneurosci.org/cgi/content/short/46/40/e0751262026
+- first/last authors: Vanessa Mitschke ... Anne Schacht
+- venue/date: PloS one / 2026-10-08
+- doi: 10.1371/journal.pone.0331156
+- pmid: 42848751
+- url: https://pubmed.ncbi.nlm.nih.gov/42848751
 
-### 5. Representation of fear memory features in the ventral hippocampus
+### 5. Slow breathing impacts inter-organ dynamics modulating brain function and risk behavior.
 
-- authors: Anastasija Milentijevic, Carlo Cerquetella, Thomas Nevian, Stéphane Ciocchi, Thomas Forro
-- venue/date: Current Biology / 2026-10-07
-- doi: 10.1016/j.cub.2026.09.034
-- url: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01212-1
+- first/last authors: Wenhao Huang ... Soyoung Q Park
+- venue/date: Neuron / 2026-05-28
+- doi: 10.1016/j.neuron.2026.04.044
+- pmid: 42208533
+- url: https://pubmed.ncbi.nlm.nih.gov/42208533
 
-### 6. A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition.
+### 6. The paraventricular nucleus of the thalamus differentiates threat and safety cues during delayed recall in humans.
 
-- first/last authors: Xinyuan Tian ... Yize Zhao
-- venue/date: Biometrics / 2026-10-07
-- doi: 10.1093/biomtc/ujag174
-- pmid: 42842297
-- url: https://pubmed.ncbi.nlm.nih.gov/42842297
+- first/last authors: Cassandra Hayashi ... Daniel M Stout
+- venue/date: Neurobiology of learning and memory / 2026-10-07
+- doi: 10.1016/j.nlm.2026.108220
+- pmid: 42843708
+- url: https://pubmed.ncbi.nlm.nih.gov/42843708
 
-### 7. A Semi-Dry, Visually Comfortable c-VEP BCI with Short Calibration, Conservative Idle-State Behavior, and a VR Proof of Concept
+### 7. Control of representation updating by higher-order thalamus enables history-based decision-making.
 
-- first/last authors: dehais, F. ... Cabrera-Castillos, K.
-- venue/date: bioRxiv / 2026-10-05
-- doi: 10.64898/2026.09.29.754884
-- url: https://doi.org/10.64898/2026.09.29.754884
+- first/last authors: Patrick Steven Hosford ... Lukas Ian Schmitt
+- venue/date: Neuron / 2026-05-29
+- doi: 10.1016/j.neuron.2026.04.045
+- pmid: 42214337
+- url: https://pubmed.ncbi.nlm.nih.gov/42214337
 
-### 8. Auditory Cues Guide Predictive Gaze Orienting during Navigation in Virtual Reality.
+### 8. Simultaneous awake replay of multiple spatial representations
 
-- first/last authors: Vasiliki Kondyli ... Marcin Leszczyński
-- venue/date: Journal of cognitive neuroscience / 2026-10-06
-- doi: 10.1162/jocn.a.2728
-- pmid: 42837530
-- url: https://pubmed.ncbi.nlm.nih.gov/42837530
+- first/last authors: Xiang Mou ... Daoyun Ji
+- venue/date: Neuron / 2026-10-08
+- doi: 10.1016/j.neuron.2026.09.014
+- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00724-5
 
-### 9. Profile of Michael N. Shadlen.
+### 9. Comprehensive lineage tracing maps the landscape of cell fate decisions in mouse embryogenesis
 
-- authors: Jennifer Viegas
-- venue/date: Proceedings of the National Academy of Sciences of the United States of America / 2026-10-07
-- doi: 10.1073/pnas.2631778123
-- pmid: 42842402
-- url: https://pubmed.ncbi.nlm.nih.gov/42842402
+- first/last authors: William N. Colgan ... Jonathan S. Weissman
+- venue/date: Cell / 2026-10-08
+- doi: 10.1016/j.cell.2026.09.050
+- url: https://www.cell.com/cell/fulltext/S0092-8674(26)01196-7
+
+### 10. Enhancer-AAVs allow genetic access to oligodendrocytes and diverse populations of astrocytes across species
+
+- first/last authors: Mich, J. K. ... Sedeno-Cort
+- venue/date: bioRxiv / 2026-10-06
+- doi: 10.1101/2023.09.20.558718
+- url: https://doi.org/10.1101/2023.09.20.558718
+
+### 11. "Mine" or "yours"? Acoustic structure of food calls predicts sharing decisions in marmosets
+
+- first/last authors: Wierucka, K. ... Burkart, J. M.
+- venue/date: bioRxiv / 2026-10-06
+- doi: 10.64898/2026.10.05.756650
+- url: https://doi.org/10.64898/2026.10.05.756650
