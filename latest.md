@@ -1,91 +1,100 @@
-# Paper candidates for 2026-10-09
+# Paper candidates for 2026-10-10
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 11
-- records available privately: 11
+- records listed: 12
+- records available privately: 12
 
 ## Candidates
 
-### 1. Mapping Mesolimbic Dopamine Projections to Subcortical Circuits Underlying Adaptive Behavior: A Human 7T Diffusion Tractography Atlas
+### 1. Cognitive load and prefrontal neuromodulation shape exploration, risk-taking, and information seeking in experience-based decision making.
 
-- first/last authors: Elliott, B. L. ... Murty, V. P.
-- venue/date: bioRxiv / 2026-10-06
-- doi: 10.64898/2026.09.22.753583
-- url: https://doi.org/10.64898/2026.09.22.753583
+- first/last authors: Ankit Singh ... Akash K Rao
+- venue/date: PloS one / 2026-10-09
+- doi: 10.1371/journal.pone.0360059
+- pmid: 42853811
+- url: https://pubmed.ncbi.nlm.nih.gov/42853811
 
-### 2. Reward function compression facilitates goal-dependent reinforcement learning
+### 2. Understanding consciousness (biological and artificial) as a society of self-schemas.
 
-- first/last authors: Gaia Molinaro ... Anne G. E. Collins
-- venue/date: Nature Communications / 2026-10-08
-- doi: 10.1038/s41467-026-78295-1
-- url: https://www.nature.com/articles/s41467-026-78295-1
+- authors: Michael S A Graziano
+- venue/date: Proceedings of the National Academy of Sciences of the United States of America / 2026-10-09
+- doi: 10.1073/pnas.2628598123
+- pmid: 42853683
+- url: https://pubmed.ncbi.nlm.nih.gov/42853683
 
-### 3. Distinct goal location beta frequency dynamics in hippocampus and prefrontal cortex across learning
+### 3. The Brain Before the Herd: Pre-Decision EEG Prediction of Herd-Consistent Investment Choices among Bilingual Investors.
 
-- first/last authors: Wang, G. ... Yu, J.
-- venue/date: bioRxiv / 2026-10-06
-- doi: 10.1101/2025.08.11.669642
-- url: https://doi.org/10.1101/2025.08.11.669642
+- first/last authors: Ooi Kok Loang ... Ali Sorayyaei Azar
+- venue/date: Brain research bulletin / 2026-10-08
+- doi: 10.1016/j.brainresbull.2026.112157
+- pmid: 42849666
+- url: https://pubmed.ncbi.nlm.nih.gov/42849666
 
-### 4. Mapping social relevance in affective scenes: A large-scale multidimensional rating study.
+### 4. Musical Aesthetic Experience Reveals Differential Effects of Professional Vocal Training on Female College Students' Brain Function
 
-- first/last authors: Vanessa Mitschke ... Anne Schacht
-- venue/date: PloS one / 2026-10-08
-- doi: 10.1371/journal.pone.0331156
-- pmid: 42848751
-- url: https://pubmed.ncbi.nlm.nih.gov/42848751
+- first/last authors: LI, H. ... Zhang, X.
+- venue/date: bioRxiv / 2026-10-07
+- doi: 10.64898/2026.10.02.756189
+- url: https://doi.org/10.64898/2026.10.02.756189
 
-### 5. Slow breathing impacts inter-organ dynamics modulating brain function and risk behavior.
+### 5. A piece-wise linear recurrent neural network identifies generalizable dynamics from neural activity during decision-making in rodents
 
-- first/last authors: Wenhao Huang ... Soyoung Q Park
-- venue/date: Neuron / 2026-05-28
-- doi: 10.1016/j.neuron.2026.04.044
-- pmid: 42208533
-- url: https://pubmed.ncbi.nlm.nih.gov/42208533
+- first/last authors: Barnett, W. H. ... Lapish, C. C.
+- venue/date: bioRxiv / 2026-10-07
+- doi: 10.64898/2026.09.29.754775
+- url: https://doi.org/10.64898/2026.09.29.754775
 
-### 6. The paraventricular nucleus of the thalamus differentiates threat and safety cues during delayed recall in humans.
+### 6. Orbitofrontal value dynamics and striatal population geometry during interruption of automatic behavior
 
-- first/last authors: Cassandra Hayashi ... Daniel M Stout
-- venue/date: Neurobiology of learning and memory / 2026-10-07
-- doi: 10.1016/j.nlm.2026.108220
-- pmid: 42843708
-- url: https://pubmed.ncbi.nlm.nih.gov/42843708
+- first/last authors: Thomas W. Elston ... Joni D. Wallis
+- venue/date: Neuron / 2026-10-09
+- doi: 10.1016/j.neuron.2026.09.016
+- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00726-9
 
-### 7. Control of representation updating by higher-order thalamus enables history-based decision-making.
+### 7. Stepwise engagement of cingulate ensembles underlies motivational decline in chronic pain
 
-- first/last authors: Patrick Steven Hosford ... Lukas Ian Schmitt
-- venue/date: Neuron / 2026-05-29
-- doi: 10.1016/j.neuron.2026.04.045
-- pmid: 42214337
-- url: https://pubmed.ncbi.nlm.nih.gov/42214337
+- first/last authors: Wenying Xu ... Wei-Guang Li
+- venue/date: Neuron / 2026-10-09
+- doi: 10.1016/j.neuron.2026.09.018
+- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00728-2
 
-### 8. Simultaneous awake replay of multiple spatial representations
+### 8. Receptor architecture shapes the regional organization of the macaque cingulate cortex.
 
-- first/last authors: Xiang Mou ... Daoyun Ji
-- venue/date: Neuron / 2026-10-08
-- doi: 10.1016/j.neuron.2026.09.014
-- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00724-5
+- first/last authors: Lucija Rapan ... Nicola Palomero-Gallagher
+- venue/date: Brain structure & function / 2026-10-09
+- doi: 10.1007/s00429-026-03186-6
+- pmid: 42853435
+- url: https://pubmed.ncbi.nlm.nih.gov/42853435
 
-### 9. Comprehensive lineage tracing maps the landscape of cell fate decisions in mouse embryogenesis
+### 9. Does later chronotype cause poorer adolescent mental health? An adolescent brain cognitive development study.
 
-- first/last authors: William N. Colgan ... Jonathan S. Weissman
-- venue/date: Cell / 2026-10-08
-- doi: 10.1016/j.cell.2026.09.050
-- url: https://www.cell.com/cell/fulltext/S0092-8674(26)01196-7
+- first/last authors: Rachel Visontay ... Jacob J Crouse
+- venue/date: Journal of child psychology and psychiatry, and allied disciplines / 2026-10-08
+- doi: 10.1111/jcpp.70248
+- pmid: 42849892
+- url: https://pubmed.ncbi.nlm.nih.gov/42849892
 
-### 10. Enhancer-AAVs allow genetic access to oligodendrocytes and diverse populations of astrocytes across species
+### 10. Basal Ganglia Dopamine Availability and Immune Activation Interact and Relate to Anhedonia Severity among Youth with Depression
 
-- first/last authors: Mich, J. K. ... Sedeno-Cort
-- venue/date: bioRxiv / 2026-10-06
-- doi: 10.1101/2023.09.20.558718
-- url: https://doi.org/10.1101/2023.09.20.558718
+- first/last authors: Chat, I. K.-Y. ... Forbes, E. E.
+- venue/date: bioRxiv / 2026-10-07
+- doi: 10.64898/2025.12.23.696320
+- url: https://doi.org/10.64898/2025.12.23.696320
 
-### 11. "Mine" or "yours"? Acoustic structure of food calls predicts sharing decisions in marmosets
+### 11. Insect-specific aldehyde synthase governs cuticle strength: a selective insecticide target
 
-- first/last authors: Wierucka, K. ... Burkart, J. M.
-- venue/date: bioRxiv / 2026-10-06
-- doi: 10.64898/2026.10.05.756650
-- url: https://doi.org/10.64898/2026.10.05.756650
+- first/last authors: Yi Ding ... Tian Liu
+- venue/date: Science Advances / 2026-10-09
+- doi: 10.1126/sciadv.aeh0368
+- url: https://www.science.org/doi/10.1126/sciadv.aeh0368
+
+### 12. DNA-polyphenol wet-adhesive hydrogel for rapid hemostasis.
+
+- first/last authors: Caiyun Zheng ... Tingli Lu
+- venue/date: International journal of biological macromolecules / 2026-10-08
+- doi: 10.1016/j.ijbiomac.2026.154795
+- pmid: 42849680
+- url: https://pubmed.ncbi.nlm.nih.gov/42849680
