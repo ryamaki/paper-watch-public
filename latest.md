@@ -1,74 +1,95 @@
-# Paper candidates for 2026-10-14
+# Paper candidates for 2026-10-15
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 9
-- records available privately: 9
+- records listed: 12
+- records available privately: 12
 
 ## Candidates
 
-### 1. Recruitment of the local GABAergic population engages complex network interactions in the ventral subiculum
+### 1. Dynamic Reduction of Neural Uncertainty Shapes Perceptual Decisions in a Bayes-Optimal Manner
 
-- first/last authors: Bahrami, M. ... bach, e.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.06.757158
-- url: https://doi.org/10.64898/2026.10.06.757158
+- authors: Rangelov, D., Bitzer, S., Mattingley, J. B.
+- venue/date: Journal of Neuroscience / 2026-10-15
+- url: http://www.jneurosci.org/cgi/content/short/46/41/e1026252026
 
-### 2. EARLY-LIFE STRESS INDUCES SEXUALLY DIMORPHIC BRAIN AGING VIA MESOLIMBIC ALTERATIONS AND FRONTO-STRIATAL DYSFUNCTION
+### 2. Motor effort biases perceptual decisions through later-stage evidence accumulation rather than early sensory-attentional processing
 
-- first/last authors: Souza, A. C. ... BOER, P. A.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.09.757621
-- url: https://doi.org/10.64898/2026.10.09.757621
+- first/last authors: Cui, N. ... van Wijk, B. C. M.
+- venue/date: bioRxiv / 2026-10-12
+- doi: 10.64898/2026.10.05.756778
+- url: https://doi.org/10.64898/2026.10.05.756778
 
-### 3. From sensation to action: distributed mesoscale dynamics in the primate brain
+### 3. Uncovering Latent Cognitive, Metacognitive, and Neural Bases of Problem-Solving Deficits in Children with Developmental Dyscalculia
 
-- first/last authors: Shi, S. ... Roe, A. W.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.04.756523
-- url: https://doi.org/10.64898/2026.10.04.756523
+- authors: Lasnick, O. H. M., Park, Y., Mistry, P., Menon, V.
+- venue/date: Journal of Neuroscience / 2026-10-15
+- url: http://www.jneurosci.org/cgi/content/short/46/41/e2200252026
 
-### 4. Genomic structural equation modeling of impulsivity and risk-taking traits reveals three latent factors associated with brain structure and development.
+### 4. VAD-EmotionNet: a spatial-spectral attention network for EEG emotion recognition in the 3D affective space.
 
-- first/last authors: Mari Shishikura ... Alain Dagher
-- venue/date: Biological psychiatry. Cognitive neuroscience and neuroimaging / 2026-10-12
-- doi: 10.1016/j.bpsc.2026.09.016
-- pmid: 42863674
-- url: https://pubmed.ncbi.nlm.nih.gov/42863674
+- first/last authors: Xiujun Li ... Geqi Qi
+- venue/date: Cognitive neurodynamics / 2026-10-12
+- doi: 10.1007/s11571-026-10569-2
+- pmid: 42871343
+- url: https://pubmed.ncbi.nlm.nih.gov/42871343
 
-### 5. Primate Gaze Behavior Reflects Change of Mind in a Naturalistic Navigation Task
+### 5. Learning to infer transitively on a mental line in premotor cortex
 
-- first/last authors: Choi, W. ... Angelaki, D. E.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.10.756925
-- url: https://doi.org/10.64898/2026.10.10.756925
+- first/last authors: Sofia Raglio ... Maurizio Mattia
+- venue/date: Science Advances / 2026-10-16
+- doi: 10.1126/sciadv.aec2068
+- pmid: 42873851
+- url: https://www.science.org/doi/10.1126/sciadv.aec2068
 
-### 6. Mice navigate complex landscapes by learning a sparse vocabulary of paths
+### 6. Understanding neural circuit principles for representation learning through joint-embedding predictive architectures
 
-- first/last authors: Ma, T. ... Voigts, J.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.10.757726
-- url: https://doi.org/10.64898/2026.10.10.757726
+- first/last authors: Mohammadi, A. G. ... Zenke, F.
+- venue/date: bioRxiv / 2026-10-12
+- doi: 10.1101/2025.11.25.690220
+- url: https://doi.org/10.1101/2025.11.25.690220
 
-### 7. Linear NeuroPaint: An Efficient Baseline for Cross-Session Neural Alignment and Inpainting
+### 7. Pupil Dynamics Reflect Uncertainty-Driven Adjustments of Probability Learning
 
-- first/last authors: Yao, Y. J. ... Miller, K. D.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.03.756082
-- url: https://doi.org/10.64898/2026.10.03.756082
+- first/last authors: Greenhouse-Tucknott, A. ... Meyniel, F.
+- venue/date: bioRxiv / 2026-10-12
+- doi: 10.64898/2026.02.26.708148
+- url: https://doi.org/10.64898/2026.02.26.708148
 
-### 8. Global statistical constraint and local partner-sensitive inference support dynamic, open-ended verbal coordination
+### 8. Distinct Mechanisms Mediate Dopamine-Octopamine Opponency in an Insect Model of Olfaction
 
-- first/last authors: Zhang, T. ... Lu, C.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.03.756413
-- url: https://doi.org/10.64898/2026.10.03.756413
+- authors: Bessonova, Y., Clark, I., Sumida, R., Kelley, J., Alva, I., Raman, B.
+- venue/date: Journal of Neuroscience / 2026-10-15
+- url: http://www.jneurosci.org/cgi/content/short/46/41/e2338252026
 
-### 9. A human CHRNA6 3' UTR variant alters the molecular environment and microRNA engagement of the adolescent VTA without changing Chrna6 transcript abundance
+### 9. Oxytocin receptor signaling in the dorsal lateral septum is essential for social transmission of food preference in mice.
 
-- first/last authors: Hajy Heydary, Y. ... Lotfipour, S.
-- venue/date: bioRxiv / 2026-10-11
-- doi: 10.64898/2026.10.09.758057
-- url: https://doi.org/10.64898/2026.10.09.758057
+- first/last authors: Hanyu Fu ... Dejuan Wang
+- venue/date: PLoS biology / 2026-10-14
+- doi: 10.1371/journal.pbio.3004044
+- pmid: 42873788
+- url: https://pubmed.ncbi.nlm.nih.gov/42873788
+
+### 10. Time2: A Framework for the Neural Dynamics of Visual Perception
+
+- authors: Caplette, L., Gosselin, F.
+- venue/date: Journal of Neuroscience / 2026-10-15
+- url: http://www.jneurosci.org/cgi/content/short/46/41/e2163252026
+
+### 11. Parallel Development and Maturation of GABAergic Interneurons and Corticotrophin-releasing Factor Signaling within the Amygdala Complex.
+
+- first/last authors: Camila Demaestri ... Kuei Y Tseng
+- venue/date: Neuroscience and biobehavioral reviews / 2026-10-13
+- doi: 10.1016/j.neubiorev.2026.107038
+- pmid: 42869315
+- url: https://pubmed.ncbi.nlm.nih.gov/42869315
+
+### 12. Mitochondrial Psychobiology.
+
+- first/last authors: Ana C Andreazza ... Tor D Wager
+- venue/date: Neuroscience and biobehavioral reviews / 2026-10-13
+- doi: 10.1016/j.neubiorev.2026.107036
+- pmid: 42869317
+- url: https://pubmed.ncbi.nlm.nih.gov/42869317
