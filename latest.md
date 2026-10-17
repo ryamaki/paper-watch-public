@@ -1,134 +1,75 @@
-# Paper candidates for 2026-10-17
+# Paper candidates for 2026-10-18
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 16
-- records available privately: 16
+- records listed: 9
+- records available privately: 9
 
 ## Candidates
 
-### 1. The Role of Locus Coeruleus and Substantia Nigra/Ventral Tegmental Area activity in Reward and Salience Processing: A High-Resolution fMRI Study
+### 1. Dynamics of dopamine transients in human olfactory epithelium during reward learning
 
-- first/last authors: Hall, J. M. ... Krebs, R. M.
-- venue/date: bioRxiv / 2026-10-14
-- doi: 10.64898/2026.10.08.752674
-- url: https://doi.org/10.64898/2026.10.08.752674
+- first/last authors: Sands, L. P. ... Montague, R.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.07.757414
+- url: https://doi.org/10.64898/2026.10.07.757414
 
-### 2. Individual dopaminergic neurons induce unique, yet overlapping combinations of behavioural modulations, including safety learning, memory retrieval, and acute locomotion
+### 2. Dopamine Release from the Locus Coeruleus Enables Temporal Binding in the Hippocampus
 
-- first/last authors: Naoko Toshima ... Michael Schleyer
-- venue/date: eLife / 2026-10-16
-- doi: 10.7554/elife.106148
-- pmid: 42885570
-- url: https://elifesciences.org/articles/106148
+- first/last authors: Crestani, A. P. ... Wiltgen, B.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.13.758657
+- url: https://doi.org/10.64898/2026.10.13.758657
 
-### 3. Neural subspace reorganization reflects value-based decision-making.
+### 3. Reward sensitivity is negatively associated with future self-continuity: the mediation role of functional connectivity between the dorsomedial prefrontal cortex and ventrolateral prefrontal cortex.
 
-- first/last authors: Huidi Li ... Earl K Miller
-- venue/date: iScience / 2026-09-09
-- doi: 10.1016/j.isci.2026.117492
-- pmid: 42757072
-- url: https://pubmed.ncbi.nlm.nih.gov/42757072
+- first/last authors: Hongjie Shen ... Pan Feng
+- venue/date: Brain structure & function / 2026-10-17
+- doi: 10.1007/s00429-026-03212-7
+- pmid: 42888359
+- url: https://pubmed.ncbi.nlm.nih.gov/42888359
 
-### 4. Impaired Neural Pattern Separation During Implicit Emotion Regulation in PTSD: An MVPA fMRI Study.
+### 4. Dynamic interactions between sensory and decision-making circuits shape temporal evidence weighting
 
-- first/last authors: Yunxiao Guo ... Zhihong Ren
-- venue/date: Social cognitive and affective neuroscience / 2026-10-15
-- doi: 10.1093/scan/nsag048
-- pmid: 42878414
-- url: https://pubmed.ncbi.nlm.nih.gov/42878414
+- first/last authors: Vivar, C. ... Wimmer, K.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.09.757813
+- url: https://doi.org/10.64898/2026.10.09.757813
 
-### 5. Sex-specific exploration patterns and noradrenergic modulation in object recognition memory: Role of the perirhinal cortex.
+### 5. A novel behavioral paradigm to model hypermemory-like features in rats
 
-- first/last authors: Lorena Roselló-Jiménez ... Laura Font
-- venue/date: Psychopharmacology / 2026-10-15
-- doi: 10.1007/s00213-026-07191-9
-- pmid: 42878799
-- url: https://pubmed.ncbi.nlm.nih.gov/42878799
+- first/last authors: Conforti, E. ... Campolongo, P.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.08.757535
+- url: https://doi.org/10.64898/2026.10.08.757535
 
-### 6. Nicotinic control of dopamine release shapes striatal output and engages adaptive action selection.
+### 6. Remembered event features shape default mode network engagement during emotional memory recall.
 
-- first/last authors: Guven, E. B. ... Assous, M.
-- venue/date: bioRxiv / 2026-10-14
-- doi: 10.64898/2026.10.12.758519
-- url: https://doi.org/10.64898/2026.10.12.758519
+- first/last authors: Nina Curko ... Maureen Ritchey
+- venue/date: eNeuro / 2026-10-16
+- doi: 10.1523/eneuro.0146-26.2026
+- pmid: 42888042
+- url: https://pubmed.ncbi.nlm.nih.gov/42888042
 
-### 7. Auditory associative learning drives synaptic responses in tail of the striatum spiny projection neurons.
+### 7. Variabilities in the shapes of the receptive fields of simple cells in mice
 
-- first/last authors: Adrien Stanley ... David Sulzer
-- venue/date: iScience / 2026-09-15
-- doi: 10.1016/j.isci.2026.117473
-- pmid: 42775128
-- url: https://pubmed.ncbi.nlm.nih.gov/42775128
+- first/last authors: Meshcherina, D. ... Lindeberg, T.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.07.757489
+- url: https://doi.org/10.64898/2026.10.07.757489
 
-### 8. Cellular scaling laws in the mammalian brain.
+### 8. Food perception alone stimulates oviposition through serotonin signaling in Drosophila
 
-- first/last authors: Fei Chen ... Evan Z Macosko
-- venue/date: Cell / 2026-10-15
-- doi: 10.1016/j.cell.2026.08.044
-- pmid: 42880229
-- url: https://pubmed.ncbi.nlm.nih.gov/42880229
+- first/last authors: Ng, T. C. ... Lyu, Y.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.08.757633
+- url: https://doi.org/10.64898/2026.10.08.757633
 
-### 9. Analyzing uncertain decision processes in problematic pornography use: ERP insights into decision evaluation and feedback processing.
+### 9. A male-specific neural circuit for appetitive thirst in Drosophila
 
-- first/last authors: Yushan Wang ... Jianfeng Wang
-- venue/date: Journal of behavioral addictions / 2026-10-15
-- doi: 10.1556/2006.2026.00161
-- pmid: 42879216
-- url: https://pubmed.ncbi.nlm.nih.gov/42879216
-
-### 10. Dorsal striatal astrocytes link dopamine to slow behavioral dynamics
-
-- first/last authors: Lazaridis, I. ... Graybiel, A. M.
-- venue/date: bioRxiv / 2026-10-14
-- doi: 10.1101/2024.12.01.626240
-- url: https://doi.org/10.1101/2024.12.01.626240
-
-### 11. A gαq signaling pathway in dopaminergic neurons suppresses memory
-
-- first/last authors: Martinez-Cervantes, J. C. ... Cervantes Sandoval, I.
-- venue/date: bioRxiv / 2026-10-14
-- doi: 10.64898/2026.10.13.758534
-- url: https://doi.org/10.64898/2026.10.13.758534
-
-### 12. Dopamine modulation of motor and implicit learning contributions to auditory temporal attention.
-
-- first/last authors: Arnaud Zalta ... Esther Florin
-- venue/date: iScience / 2026-09-14
-- doi: 10.1016/j.isci.2026.117541
-- pmid: 42774941
-- url: https://pubmed.ncbi.nlm.nih.gov/42774941
-
-### 13. Individualized Theta Transcranial Alternating Current Stimulation Modulates Mnemonic Discrimination and ERP Responses to Positive Information in Individuals With Elevated Depressive Symptoms.
-
-- first/last authors: Xinyu Huang ... Kai Wang
-- venue/date: Social cognitive and affective neuroscience / 2026-10-16
-- doi: 10.1093/scan/nsag079
-- pmid: 42885568
-- url: https://pubmed.ncbi.nlm.nih.gov/42885568
-
-### 14. A novel nitric oxide (NO)-dependent 'molecular switch' mediates LTP in the Octopus vulgaris brain through persistent activation of nitric oxide synthase (NOS).
-
-- first/last authors: Ana Luiza Turchetti-Maia ... Binyamin Hochner
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-15
-- doi: 10.1523/jneurosci.1676-25.2026
-- pmid: 42880969
-- url: https://pubmed.ncbi.nlm.nih.gov/42880969
-
-### 15. The legible body and the language of cognition.
-
-- authors: Zachary F Mainen
-- venue/date: Current opinion in neurobiology / 2026-10-15
-- doi: 10.1016/j.conb.2026.103282
-- pmid: 42879967
-- url: https://pubmed.ncbi.nlm.nih.gov/42879967
-
-### 16. Metabolic reprogramming in diabetic panvascular disease: Molecular mechanism and therapeutic strategies.
-
-- first/last authors: Yajing Bai ... Shiwei Liu
-- venue/date: iScience / 2026-09-18
-- doi: 10.1016/j.isci.2026.117578
-- pmid: 42823960
-- url: https://pubmed.ncbi.nlm.nih.gov/42823960
+- first/last authors: Wang, B. P. ... Wolf, F. W.
+- venue/date: bioRxiv / 2026-10-15
+- doi: 10.64898/2026.10.08.757749
+- url: https://doi.org/10.64898/2026.10.08.757749
