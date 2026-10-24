@@ -1,83 +1,113 @@
-# Paper candidates for 2026-10-24
+# Paper candidates for 2026-10-25
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 10
-- records available privately: 10
+- records listed: 14
+- records available privately: 14
 
 ## Candidates
 
-### 1. Prefrontal cortex and striatum dissociate modality and learning order in cross-modal sensorimotor learning in mice
+### 1. Dopaminergic reward signals shape foraging decisions through learned value expectations
 
-- first/last authors: Da Song ... Andrew J. Peters
-- venue/date: Nature Communications / 2026-10-23
-- doi: 10.1038/s41467-026-78921-y
-- url: https://www.nature.com/articles/s41467-026-78921-y
+- first/last authors: Kingsbury, L. E. ... Uchida, N.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.10.21.760765
+- url: https://doi.org/10.64898/2026.10.21.760765
 
-### 2. Striatal D2-neurons gate D1-mediated associative encoding under uncertainty
+### 2. Frustration Induction Alters Reward Prediction Error Encoding in Pediatric Irritability.
 
-- first/last authors: Goulton, C. S. ... Bertran-Gonzalez, J.
-- venue/date: bioRxiv / 2026-10-21
-- doi: 10.64898/2026.10.16.759515
-- url: https://doi.org/10.64898/2026.10.16.759515
+- first/last authors: Marta Korom ... Katharina Kircanski
+- venue/date: Biological psychiatry. Cognitive neuroscience and neuroimaging / 2026-10-23
+- doi: 10.1016/j.bpsc.2026.10.005
+- pmid: 42918450
+- url: https://pubmed.ncbi.nlm.nih.gov/42918450
 
-### 3. Spontaneous brain-wide rotational dynamics constrain cue-evoked behavior
+### 3. Cognitive Agent Neuron: Learning and Decision-Making Inspired by Dopaminergic Neurons.
 
-- first/last authors: Chen, S. ... Vitelli, V.
-- venue/date: bioRxiv / 2026-10-21
-- doi: 10.64898/2026.10.17.759884
-- url: https://doi.org/10.64898/2026.10.17.759884
+- first/last authors: Masoumeh Zareh ... Golnoush Nematbakhsh
+- venue/date: Journal of theoretical biology / 2026-10-22
+- doi: 10.1016/j.jtbi.2026.112628
+- pmid: 42913907
+- url: https://pubmed.ncbi.nlm.nih.gov/42913907
 
-### 4. Opposing reward-epoch population coding in anterior insular cortex dissociates sign- and goal-tracking despite equivalent conditioned responding
+### 4. Hippocampus-evoked polysynaptic responses in the medial prefrontal cortex are attenuated in aged rats.
 
-- first/last authors: Keefer, S. E. ... Calu, D. J.
-- venue/date: bioRxiv / 2026-10-21
-- doi: 10.64898/2026.10.15.759424
-- url: https://doi.org/10.64898/2026.10.15.759424
+- first/last authors: Srivathsa, S. ... Barnes, C. A.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.06.05.730244
+- url: https://doi.org/10.64898/2026.06.05.730244
 
-### 5. Generalized prefrontal task-progress sequences efficiently encode task structure
+### 5. Brief Social Gameplay Accelerates Attentional Reorienting and Enhances Sensorimotor Learning in Preschool Children.
 
-- first/last authors: Tarahi, O. ... Sauer, J.-F.
-- venue/date: bioRxiv / 2026-10-21
-- doi: 10.64898/2026.10.20.760165
-- url: https://doi.org/10.64898/2026.10.20.760165
+- first/last authors: Sara Bertoni ... Andrea Facoetti
+- venue/date: Behavioural brain research / 2026-10-22
+- doi: 10.1016/j.bbr.2026.116548
+- pmid: 42913735
+- url: https://pubmed.ncbi.nlm.nih.gov/42913735
 
-### 6. Mapping the topographic organization of the human zona incerta using diffusion MRI
+### 6. Activation of basal forebrain cholinergic neurons promotes the attribution of incentive salience to reward cues in male rats
 
-- first/last authors: Roy AM Haast ... Jonathan C Lau
-- venue/date: eLife / 2026-10-23
-- doi: 10.7554/elife.103530
-- url: https://elifesciences.org/articles/103530
+- first/last authors: Rakowski, E. A. ... Meyer, P. J.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.10.20.760494
+- url: https://doi.org/10.64898/2026.10.20.760494
 
-### 7. Accelerated Formulation Screening of Multi-Component Bioinks via a Deep Learning-Integrated High-Throughput Gradient Printing Platform.
+### 7. Projection populations form a dorsoventral gradient of reward representations in the lateral septum
 
-- first/last authors: Jianpei Dong ... Jianhua Zhou
-- venue/date: Biofabrication / 2026-10-21
-- doi: 10.1088/1758-5090/aeb727
-- pmid: 42906582
-- url: https://pubmed.ncbi.nlm.nih.gov/42906582
+- first/last authors: Isaac, J. ... Murugan, M.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.10.20.760513
+- url: https://doi.org/10.64898/2026.10.20.760513
 
-### 8. Susumu Tonegawa (1939-2026): A molecular biologist who transformed immunology and neuroscience.
+### 8. Modeling the Selective and Lossy Nature of Visual Processing Bridges the Discrepancy in Noninvasive Neural Decoding.
 
-- first/last authors: Juan J Lafaille ... Thomas J McHugh
-- venue/date: Proceedings of the National Academy of Sciences of the United States of America / 2026-10-23
-- doi: 10.1073/pnas.2632673123
-- pmid: 42912768
-- url: https://pubmed.ncbi.nlm.nih.gov/42912768
+- first/last authors: Yuanpeng Li ... Shaobing Gao
+- venue/date: International journal of neural systems / 2026-10-22
+- doi: 10.1142/s0129065727500298
+- pmid: 42920311
+- url: https://pubmed.ncbi.nlm.nih.gov/42920311
 
-### 9. Social Approach Dynamics in Freely-Moving Rat Dyads are Not Impacted by Lesions to the Retrosplenial Cortex
+### 9. Coordinated cerebellar-midbrain activity for predictive signaling during fear learning in mice
 
-- first/last authors: Lowrie, M. I. ... Insel, N.
-- venue/date: bioRxiv / 2026-10-21
-- doi: 10.64898/2026.10.19.760292
-- url: https://doi.org/10.64898/2026.10.19.760292
+- first/last authors: Urrutia Desmaison, J. D. ... Popa, D.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.10.17.759883
+- url: https://doi.org/10.64898/2026.10.17.759883
 
-### 10. Atomic Defect-Mediated Charge Trapping Enables Multimodal Plasticity in van der Waals Heterostructures for In-Sensor Neuromorphic Vision.
+### 10. Systemic D1-like receptor activation during song exposure biases the emergence of song selectivity in the juvenile zebra finch NCM.
 
-- first/last authors: Jinyong Wang ... Zhiqun Lin
-- venue/date: Nano letters / 2026-10-21
-- doi: 10.1021/acs.nanolett.6c03546
-- pmid: 42905052
-- url: https://pubmed.ncbi.nlm.nih.gov/42905052
+- first/last authors: Shin Yanagihara ... Kazuo Okanoya
+- venue/date: Neuroscience research / 2026-10-23
+- doi: 10.1016/j.neures.2026.105143
+- pmid: 42918503
+- url: https://pubmed.ncbi.nlm.nih.gov/42918503
+
+### 11. The Intermediate CA1 and CA3 Subfields of the Hippocampus Differentially Encode Social Recognition
+
+- first/last authors: Dykstra, B. ... Murugan, M.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.1101/2025.10.27.684580
+- url: https://doi.org/10.1101/2025.10.27.684580
+
+### 12. An organotypic hippocampo-prefrontal co-culture model for studying long-range connectivity and circuit plasticity
+
+- first/last authors: Stoehr, P. ... Vlachos, A.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.10.20.760475
+- url: https://doi.org/10.64898/2026.10.20.760475
+
+### 13. Opposing plasticity mechanisms enhance visual inputs that violate their context
+
+- first/last authors: Seignette, K. ... Levelt, C. N.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.1101/2024.06.10.598181
+- url: https://doi.org/10.1101/2024.06.10.598181
+
+### 14. CDSeq2 integrates individual-level cell-type expression deconvolution with recoverability-guided prioritization
+
+- first/last authors: Kang, K. ... Xie, K.
+- venue/date: bioRxiv / 2026-10-22
+- doi: 10.64898/2026.09.14.751599
+- url: https://doi.org/10.64898/2026.09.14.751599
