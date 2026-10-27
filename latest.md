@@ -1,90 +1,124 @@
-# Paper candidates for 2026-10-27
+# Paper candidates for 2026-10-28
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 11
-- records available privately: 11
+- records listed: 15
+- records available privately: 15
 
 ## Candidates
 
-### 1. Heterogeneous decision-making in ADHD: computational subtypes and their distinct prefrontal connectivity patterns.
+### 1. Dopamine dynamics promote cooperative behavior not just the rewards accompanying cooperation.
 
-- first/last authors: Haiheng Hong ... Qiujin Qian
-- venue/date: European child & adolescent psychiatry / 2026-10-26
-- doi: 10.1007/s00787-026-03237-7
-- pmid: 42931927
-- url: https://pubmed.ncbi.nlm.nih.gov/42931927
+- first/last authors: Kexin Chai ... Lizhu Li
+- venue/date: iScience / 2026-10-20
+- doi: 10.1016/j.isci.2026.117787
+- pmid: 42935969
+- url: https://pubmed.ncbi.nlm.nih.gov/42935969
 
-### 2. Disruption of opioid and mesolimbic dopamine dynamics and behavior upon intranasal delivery of opioids in mice
+### 2. One-shot learning of paired association navigation with biologically plausible schemas.
 
-- first/last authors: Ervin, K. J. ... Wesson, D. W.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.22.761063
-- url: https://doi.org/10.64898/2026.10.22.761063
+- first/last authors: M Ganesh Kumar ... Andrew Y Y Tan
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-26
+- doi: 10.1523/jneurosci.1803-24.2026
+- pmid: 42933903
+- url: https://pubmed.ncbi.nlm.nih.gov/42933903
 
-### 3. Bayesian causal inference unifies perceptual and neuronal processing of center-surround motion in area MT
+### 3. The intermediate hippocampus integrates shock-observation and spatial information during observational fear memory in male rats.
 
-- first/last authors: Lengyel, G. ... Haefner, R. M.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.1101/2025.09.17.676722
-- url: https://doi.org/10.1101/2025.09.17.676722
+- first/last authors: Frédéric Michon Linde ... Christian Keysers
+- venue/date: Nature communications / 2026-10-26
+- doi: 10.1038/s41467-026-78482-0
+- pmid: 42934262
+- url: https://pubmed.ncbi.nlm.nih.gov/42934262
 
-### 4. Coordinated spatial organization of basal ganglia structures revealed by dopamine subtype projectome mapping
+### 4. foxQ2 marks fast-acting interneurons including dopaminergic neurons of mushroom bodies and central complex in the beetle Tribolium castaneum
 
-- first/last authors: Moreno-Ramos, O. A. ... Awatramani, R.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.21.760539
-- url: https://doi.org/10.64898/2026.10.21.760539
+- first/last authors: Ying Pang ... Gregor Bucher
+- venue/date: eLife / 2026-10-27
+- doi: 10.7554/elife.111703
+- url: https://elifesciences.org/articles/111703
 
-### 5. How Task Load Modulates the Effect of State Anxiety on Working Memory and Its Neural Mechanisms: Evidence from Verbal and Spatial Modalities.
+### 5. A Sensorimotor-Interoceptive Model for Sensory Phenomena in Obsessive-Compulsive Disorder: Neural and Computational Mechanisms.
 
-- first/last authors: Xinru Zou ... Senqing Qi
-- venue/date: Biological psychology / 2026-10-25
-- doi: 10.1016/j.biopsycho.2026.109417
-- pmid: 42927827
-- url: https://pubmed.ncbi.nlm.nih.gov/42927827
+- first/last authors: Gui Zhang ... Zhen Wang
+- venue/date: Biological psychiatry / 2026-10-26
+- doi: 10.1016/j.biopsych.2026.10.014
+- pmid: 42933779
+- url: https://pubmed.ncbi.nlm.nih.gov/42933779
 
-### 6. Longitudinal fMRI reveals altered developmental trajectories of functional network organisation associated with adolescent cannabis use
+### 6. The neural basis of flavour-nutrient learning
 
-- first/last authors: Davies, E. J. ... Wall, M. B.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.20.760368
-- url: https://doi.org/10.64898/2026.10.20.760368
+- first/last authors: Grove, J. C. R. ... Knight, Z. A.
+- venue/date: bioRxiv / 2026-10-25
+- doi: 10.1101/2025.02.09.637334
+- url: https://doi.org/10.1101/2025.02.09.637334
 
-### 7. Thalamo-insular basis for updating physiological needs
+### 7. Shared control-network recruitment and task-dependent brain-behavior associations in bilingual language and rule switching.
 
-- first/last authors: Prilutski, Y. ... Livneh, Y.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.20.760372
-- url: https://doi.org/10.64898/2026.10.20.760372
+- first/last authors: Tingting Guo ... Taomei Guo
+- venue/date: Cognitive, affective & behavioral neuroscience / 2026-10-26
+- doi: 10.3758/s13415-026-01511-4
+- pmid: 42934412
+- url: https://pubmed.ncbi.nlm.nih.gov/42934412
 
-### 8. Do psychiatrists have a spider-sense? Clinical impressions as violations of interpersonal Bayesian expectation.
+### 8. REFS: Robust EEG feature selection with incomplete labels for multi-dimensional emotion recognition.
 
-- first/last authors: Ali Amad ... Thomas Fovet
-- venue/date: Brain : a journal of neurology / 2026-10-26
-- doi: 10.1093/brain/awag365
-- pmid: 42929051
-- url: https://pubmed.ncbi.nlm.nih.gov/42929051
+- first/last authors: Xueyuan Xu ... Li Zhuo
+- venue/date: Journal of neural engineering / 2026-10-26
+- doi: 10.1088/1741-2552/aeb97e
+- pmid: 42933128
+- url: https://pubmed.ncbi.nlm.nih.gov/42933128
 
-### 9. Transiently-elevated dopamine triggers plasticity that preserves motor function, striatal neuron morphology, and thalamostriatal input in a mouse model of Parkinson's disease
+### 9. Olfactory Context Modulates Recognition and Directed Forgetting of Emotional Faces: A Chemosensory-Cognitive Perspective.
 
-- first/last authors: Brague, J. C. ... Seal, R. P.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.1101/2024.05.28.596192
-- url: https://doi.org/10.1101/2024.05.28.596192
+- first/last authors: Yiting Huang ... Ling Sun
+- venue/date: Chemical senses / 2026-10-27
+- doi: 10.1093/chemse/bjag031
+- pmid: 42934192
+- url: https://pubmed.ncbi.nlm.nih.gov/42934192
 
-### 10. Select properties of supramammillary input to adult-born dentate gyrus neurons
+### 10. Neurocognitive characteristics of perceptual feedback processing differ in autism.
 
-- first/last authors: Sah, N. ... van Praag, H.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.21.760824
-- url: https://doi.org/10.64898/2026.10.21.760824
+- first/last authors: Nathaniel J Zuk ... Merav Ahissar
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-26
+- doi: 10.1523/jneurosci.0315-26.2026
+- pmid: 42933904
+- url: https://pubmed.ncbi.nlm.nih.gov/42933904
 
-### 11. An extracellular substrate for the temporary storage of memories
+### 11. Circuit mechanisms for disentangled representations and generalization in the hippocampus
 
-- first/last authors: Guajardo, R. ... Molofsky, A. V.
-- venue/date: bioRxiv / 2026-10-24
-- doi: 10.64898/2026.10.23.760812
-- url: https://doi.org/10.64898/2026.10.23.760812
+- first/last authors: Wenbo Tang ... Antonio Fernandez-Ruiz
+- venue/date: Nature Neuroscience / 2026-10-27
+- doi: 10.1038/s41593-026-02491-x
+- url: https://www.nature.com/articles/s41593-026-02491-x
+
+### 12. Specialized and experience-dependent neural dynamics in the medial amygdala and bed nucleus of stria terminalis upon social and sexual olfactory and tactile cues
+
+- first/last authors: Huijgens, P. T. ... Snoeren, E. M. S.
+- venue/date: bioRxiv / 2026-10-26
+- doi: 10.64898/2026.10.23.761408
+- url: https://doi.org/10.64898/2026.10.23.761408
+
+### 13. PACAP engages distinct signaling programs across cortical neuronal and non-neuronal cell types
+
+- first/last authors: Heimbach, S. N. ... Melzer, S.
+- venue/date: bioRxiv / 2026-10-26
+- doi: 10.64898/2026.10.25.761643
+- url: https://doi.org/10.64898/2026.10.25.761643
+
+### 14. [Theoretical system of brain-computer interface for basic research].
+
+- first/last authors: Yunfa Fu ... Rongzhang Luo
+- venue/date: Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi / 2026-10-25
+- doi: 10.7507/1001-5515.202607036
+- pmid: 42934124
+- url: https://pubmed.ncbi.nlm.nih.gov/42934124
+
+### 15. Alpha and theta dynamics successively resolve competition between rival visual stimuli
+
+- first/last authors: Wen, W. ... Li, S.
+- venue/date: bioRxiv / 2026-10-25
+- doi: 10.1101/2025.07.21.665846
+- url: https://doi.org/10.1101/2025.07.21.665846
