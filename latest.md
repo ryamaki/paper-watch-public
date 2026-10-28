@@ -1,124 +1,100 @@
-# Paper candidates for 2026-10-28
+# Paper candidates for 2026-10-29
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 15
-- records available privately: 15
+- records listed: 13
+- records available privately: 13
 
 ## Candidates
 
-### 1. Dopamine dynamics promote cooperative behavior not just the rewards accompanying cooperation.
+### 1. Learning from Error Predictions Rather Than Prediction Errors: A Perspective on Self-Supervised Learning in the Brain
 
-- first/last authors: Kexin Chai ... Lizhu Li
-- venue/date: iScience / 2026-10-20
-- doi: 10.1016/j.isci.2026.117787
-- pmid: 42935969
-- url: https://pubmed.ncbi.nlm.nih.gov/42935969
+- authors: Meirhaeghe, N.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e1809252026
 
-### 2. One-shot learning of paired association navigation with biologically plausible schemas.
+### 2. Ventral Tegmental Area Dopamine Neuron Dynamics during Postpartum Scarcity-Adversity Depend on Caregiving Quality and Pup Proximity
 
-- first/last authors: M Ganesh Kumar ... Andrew Y Y Tan
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-26
-- doi: 10.1523/jneurosci.1803-24.2026
-- pmid: 42933903
-- url: https://pubmed.ncbi.nlm.nih.gov/42933903
+- authors: Nguyen, C. H., Jayamohan, S., Rincon-Cortes, M.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e0997262026
 
-### 3. The intermediate hippocampus integrates shock-observation and spatial information during observational fear memory in male rats.
+### 3. Dual reinforcement-learning network modules for modeling decision-making with multiple strategies
 
-- first/last authors: Frédéric Michon Linde ... Christian Keysers
-- venue/date: Nature communications / 2026-10-26
-- doi: 10.1038/s41467-026-78482-0
-- pmid: 42934262
-- url: https://pubmed.ncbi.nlm.nih.gov/42934262
-
-### 4. foxQ2 marks fast-acting interneurons including dopaminergic neurons of mushroom bodies and central complex in the beetle Tribolium castaneum
-
-- first/last authors: Ying Pang ... Gregor Bucher
-- venue/date: eLife / 2026-10-27
-- doi: 10.7554/elife.111703
-- url: https://elifesciences.org/articles/111703
-
-### 5. A Sensorimotor-Interoceptive Model for Sensory Phenomena in Obsessive-Compulsive Disorder: Neural and Computational Mechanisms.
-
-- first/last authors: Gui Zhang ... Zhen Wang
-- venue/date: Biological psychiatry / 2026-10-26
-- doi: 10.1016/j.biopsych.2026.10.014
-- pmid: 42933779
-- url: https://pubmed.ncbi.nlm.nih.gov/42933779
-
-### 6. The neural basis of flavour-nutrient learning
-
-- first/last authors: Grove, J. C. R. ... Knight, Z. A.
-- venue/date: bioRxiv / 2026-10-25
-- doi: 10.1101/2025.02.09.637334
-- url: https://doi.org/10.1101/2025.02.09.637334
-
-### 7. Shared control-network recruitment and task-dependent brain-behavior associations in bilingual language and rule switching.
-
-- first/last authors: Tingting Guo ... Taomei Guo
-- venue/date: Cognitive, affective & behavioral neuroscience / 2026-10-26
-- doi: 10.3758/s13415-026-01511-4
-- pmid: 42934412
-- url: https://pubmed.ncbi.nlm.nih.gov/42934412
-
-### 8. REFS: Robust EEG feature selection with incomplete labels for multi-dimensional emotion recognition.
-
-- first/last authors: Xueyuan Xu ... Li Zhuo
-- venue/date: Journal of neural engineering / 2026-10-26
-- doi: 10.1088/1741-2552/aeb97e
-- pmid: 42933128
-- url: https://pubmed.ncbi.nlm.nih.gov/42933128
-
-### 9. Olfactory Context Modulates Recognition and Directed Forgetting of Emotional Faces: A Chemosensory-Cognitive Perspective.
-
-- first/last authors: Yiting Huang ... Ling Sun
-- venue/date: Chemical senses / 2026-10-27
-- doi: 10.1093/chemse/bjag031
-- pmid: 42934192
-- url: https://pubmed.ncbi.nlm.nih.gov/42934192
-
-### 10. Neurocognitive characteristics of perceptual feedback processing differ in autism.
-
-- first/last authors: Nathaniel J Zuk ... Merav Ahissar
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-26
-- doi: 10.1523/jneurosci.0315-26.2026
-- pmid: 42933904
-- url: https://pubmed.ncbi.nlm.nih.gov/42933904
-
-### 11. Circuit mechanisms for disentangled representations and generalization in the hippocampus
-
-- first/last authors: Wenbo Tang ... Antonio Fernandez-Ruiz
-- venue/date: Nature Neuroscience / 2026-10-27
-- doi: 10.1038/s41593-026-02491-x
-- url: https://www.nature.com/articles/s41593-026-02491-x
-
-### 12. Specialized and experience-dependent neural dynamics in the medial amygdala and bed nucleus of stria terminalis upon social and sexual olfactory and tactile cues
-
-- first/last authors: Huijgens, P. T. ... Snoeren, E. M. S.
+- first/last authors: Maeda, H. ... Funamizu, A.
 - venue/date: bioRxiv / 2026-10-26
-- doi: 10.64898/2026.10.23.761408
-- url: https://doi.org/10.64898/2026.10.23.761408
+- doi: 10.64898/2026.03.07.709953
+- url: https://doi.org/10.64898/2026.03.07.709953
 
-### 13. PACAP engages distinct signaling programs across cortical neuronal and non-neuronal cell types
+### 4. Punishment Enhances Reward Learning through Striatal Prediction Errors
 
-- first/last authors: Heimbach, S. N. ... Melzer, S.
-- venue/date: bioRxiv / 2026-10-26
-- doi: 10.64898/2026.10.25.761643
-- url: https://doi.org/10.64898/2026.10.25.761643
+- authors: Blades, R. B.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e0816262026
 
-### 14. [Theoretical system of brain-computer interface for basic research].
+### 5. Distinct Contributions and Sensorimotor Encoding of PV and FoxP2 Neurons in the External Globus Pallidus during Perceptual Decision-making.
 
-- first/last authors: Yunfa Fu ... Rongzhang Luo
-- venue/date: Sheng wu yi xue gong cheng xue za zhi = Journal of biomedical engineering = Shengwu yixue gongchengxue zazhi / 2026-10-25
-- doi: 10.7507/1001-5515.202607036
-- pmid: 42934124
-- url: https://pubmed.ncbi.nlm.nih.gov/42934124
+- first/last authors: Xiaotian Pu ... Haishan Yao
+- venue/date: Neuroscience bulletin / 2026-10-23
+- doi: 10.1007/s12264-026-01739-7
+- pmid: 42920060
+- url: https://pubmed.ncbi.nlm.nih.gov/42920060
 
-### 15. Alpha and theta dynamics successively resolve competition between rival visual stimuli
+### 6. The Endogenous Negative Allosteric Modulator, Lynx1, Inhibits Nicotinic Cholinergic Signaling in the Ventral Tegmental Area to Regulate Nicotine Reinforcement
 
-- first/last authors: Wen, W. ... Li, S.
-- venue/date: bioRxiv / 2026-10-25
-- doi: 10.1101/2025.07.21.665846
-- url: https://doi.org/10.1101/2025.07.21.665846
+- authors: Sherafat, Y., Bautista, M., Laumann, K. N., Fowler, J. P., Lallai, V., McCamy, H., Zavala, A. R., Miwa, J. M., Fowler, C. D.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e0797262026
+
+### 7. Dissociable Roles of Prelimbic and Orbitofrontal Cortices in the Flexible Use of Model-Based Associations
+
+- authors: Dawson, A., Wilson, D., Taira, M., Wilcher, M., Abiero, A. R., Leake, J., Sharpe, M. J.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e0892262026
+
+### 8. Probability-Dependent Scaling of Fear Responding, But Not Unconditioned Stimulus Inflation, Requires the Periaqueductal Gray
+
+- authors: Counsman, L. H., Valvo, G. E., Lamberson, C. F., DuBois, A. M., Lyu, Z. V., Kim, H. E., Lee, T. S., Garcia-Viesca, M. J., Boyce, J. B., Shen, S. M., Fitzpatrick, A. C., David, M. L., Moaddab, M., McDannald, M. A.
+- venue/date: Journal of Neuroscience / 2026-10-29
+- url: http://www.jneurosci.org/cgi/content/short/46/43/e0041262026
+
+### 9. Emotion regulation capacity lacks a shared neural signature
+
+- first/last authors: Maurizio Sicorello ... Carmen Morawetz
+- venue/date: Nature / 2026-10-28
+- doi: 10.1038/s41586-026-11203-1
+- url: https://www.nature.com/articles/s41586-026-11203-1
+
+### 10. Trans-synaptic interaction of orphan GPCR GPR88 and adhesion GPCR BAI3 through C1ql1 maintains synapse integrity
+
+- first/last authors: Ying Han ... Bo Zhang
+- venue/date: Science Advances / 2026-10-30
+- doi: 10.1126/sciadv.aec0867
+- pmid: 42950037
+- url: https://www.science.org/doi/10.1126/sciadv.aec0867
+
+### 11. mPFC-Dependent Valuation Shapes Information Sharing: Causal Evidence from tDCS and a Dyadic Social Media Paradigm.
+
+- first/last authors: Yuzhen Li ... Jinjin Wang
+- venue/date: Social cognitive and affective neuroscience / 2026-10-28
+- doi: 10.1093/scan/nsag088
+- pmid: 42949098
+- url: https://pubmed.ncbi.nlm.nih.gov/42949098
+
+### 12. Aquaporin-4 Antagonist Protects Against Acute Alcohol-Induced Behavioral Impairment.
+
+- first/last authors: Shaun James ... Olivia Smith
+- venue/date: Behavioural brain research / 2026-10-27
+- doi: 10.1016/j.bbr.2026.116543
+- pmid: 42946065
+- url: https://pubmed.ncbi.nlm.nih.gov/42946065
+
+### 13. Oromotor functional networks in the marmoset monkey.
+
+- first/last authors: Azadeh Jafari ... Stefan Everling
+- venue/date: Imaging neuroscience (Cambridge, Mass.) / 2026-10-26
+- doi: 10.1162/imag.a.1419
+- pmid: 42947993
+- url: https://pubmed.ncbi.nlm.nih.gov/42947993
