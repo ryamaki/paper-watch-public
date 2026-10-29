@@ -1,100 +1,87 @@
-# Paper candidates for 2026-10-29
+# Paper candidates for 2026-10-30
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 13
-- records available privately: 13
+- records listed: 10
+- records available privately: 10
 
 ## Candidates
 
-### 1. Learning from Error Predictions Rather Than Prediction Errors: A Perspective on Self-Supervised Learning in the Brain
+### 1. Learning from Error Predictions Rather Than Prediction Errors: A Perspective on Self-Supervised Learning in the Brain.
 
-- authors: Meirhaeghe, N.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e1809252026
+- authors: Nicolas Meirhaeghe
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-28
+- doi: 10.1523/jneurosci.1809-25.2026
+- pmid: 42951374
+- url: https://pubmed.ncbi.nlm.nih.gov/42951374
 
-### 2. Ventral Tegmental Area Dopamine Neuron Dynamics during Postpartum Scarcity-Adversity Depend on Caregiving Quality and Pup Proximity
+### 2. Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila
 
-- authors: Nguyen, C. H., Jayamohan, S., Rincon-Cortes, M.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e0997262026
+- first/last authors: Kutscher, D. ... Nayebi, A.
+- venue/date: bioRxiv / 2026-10-27
+- doi: 10.64898/2026.10.26.761878
+- url: https://doi.org/10.64898/2026.10.26.761878
 
-### 3. Dual reinforcement-learning network modules for modeling decision-making with multiple strategies
+### 3. Subthalamic Nucleus dynamically encodes reward value and cognitive flexibility
 
-- first/last authors: Maeda, H. ... Funamizu, A.
-- venue/date: bioRxiv / 2026-10-26
-- doi: 10.64898/2026.03.07.709953
-- url: https://doi.org/10.64898/2026.03.07.709953
+- first/last authors: Cornish, J. ... Collins, J.
+- venue/date: bioRxiv / 2026-10-27
+- doi: 10.64898/2026.10.25.761735
+- url: https://doi.org/10.64898/2026.10.25.761735
 
-### 4. Punishment Enhances Reward Learning through Striatal Prediction Errors
+### 4. Memory erasure by dopamine-gated retrospective learning
 
-- authors: Blades, R. B.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e0816262026
+- first/last authors: Jeong, H. ... Namboodiri, V. M. K.
+- venue/date: bioRxiv / 2026-10-27
+- doi: 10.64898/2026.01.17.700100
+- url: https://doi.org/10.64898/2026.01.17.700100
 
-### 5. Distinct Contributions and Sensorimotor Encoding of PV and FoxP2 Neurons in the External Globus Pallidus during Perceptual Decision-making.
+### 5. Propofol Modulates Fear Memory Reconsolidation by Inhibiting D2 Receptor-Expressing Neurons in the Medial Prefrontal Cortex.
 
-- first/last authors: Xiaotian Pu ... Haishan Yao
-- venue/date: Neuroscience bulletin / 2026-10-23
-- doi: 10.1007/s12264-026-01739-7
-- pmid: 42920060
-- url: https://pubmed.ncbi.nlm.nih.gov/42920060
+- first/last authors: Jie Li ... Xiao-Na Zhu
+- venue/date: Advanced science (Weinheim, Baden-Wurttemberg, Germany) / 2026-10-28
+- doi: 10.1002/advs.78527
+- pmid: 42952178
+- url: https://pubmed.ncbi.nlm.nih.gov/42952178
 
-### 6. The Endogenous Negative Allosteric Modulator, Lynx1, Inhibits Nicotinic Cholinergic Signaling in the Ventral Tegmental Area to Regulate Nicotine Reinforcement
+### 6. Beyond Static Representations: Learning Electroencephalogram Spatiotemporal Dynamics for Enhanced Emotion Recognition.
 
-- authors: Sherafat, Y., Bautista, M., Laumann, K. N., Fowler, J. P., Lallai, V., McCamy, H., Zavala, A. R., Miwa, J. M., Fowler, C. D.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e0797262026
+- first/last authors: Ke Liu ... Wei Wu
+- venue/date: Cyborg and bionic systems (Washington, D.C.) / 2026-10-28
+- doi: 10.34133/cbsystems.0701
+- pmid: 42953001
+- url: https://pubmed.ncbi.nlm.nih.gov/42953001
 
-### 7. Dissociable Roles of Prelimbic and Orbitofrontal Cortices in the Flexible Use of Model-Based Associations
+### 7. Charitable giving with earned and windfall money: behavioral and ERP responses to donation-risk information.
 
-- authors: Dawson, A., Wilson, D., Taira, M., Wilcher, M., Abiero, A. R., Leake, J., Sharpe, M. J.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e0892262026
+- first/last authors: Jing Wang ... Peng Li
+- venue/date: Brain research / 2026-10-28
+- doi: 10.1016/j.brainres.2026.150613
+- pmid: 42951161
+- url: https://pubmed.ncbi.nlm.nih.gov/42951161
 
-### 8. Probability-Dependent Scaling of Fear Responding, But Not Unconditioned Stimulus Inflation, Requires the Periaqueductal Gray
+### 8. Detection of Age-Related Cognitive Decline Over Short Time Frames Using Digital Multiday Learning Assessments: Longitudinal Study.
 
-- authors: Counsman, L. H., Valvo, G. E., Lamberson, C. F., DuBois, A. M., Lyu, Z. V., Kim, H. E., Lee, T. S., Garcia-Viesca, M. J., Boyce, J. B., Shen, S. M., Fitzpatrick, A. C., David, M. L., Moaddab, M., McDannald, M. A.
-- venue/date: Journal of Neuroscience / 2026-10-29
-- url: http://www.jneurosci.org/cgi/content/short/46/43/e0041262026
+- first/last authors: Iris Blotenberg ... Rebecca E Amariglio
+- venue/date: JMIR aging / 2026-10-27
+- doi: 10.2196/100917
+- pmid: 42954140
+- url: https://pubmed.ncbi.nlm.nih.gov/42954140
 
-### 9. Emotion regulation capacity lacks a shared neural signature
+### 9. SalientNet: mechanistic and reliable saliency maps for medical image classification via unsupervised learning.
 
-- first/last authors: Maurizio Sicorello ... Carmen Morawetz
-- venue/date: Nature / 2026-10-28
-- doi: 10.1038/s41586-026-11203-1
-- url: https://www.nature.com/articles/s41586-026-11203-1
+- first/last authors: Siddhaarth Sekar ... O K Sikha
+- venue/date: International journal of computer assisted radiology and surgery / 2026-10-29
+- doi: 10.1007/s11548-026-03812-y
+- pmid: 42955617
+- url: https://pubmed.ncbi.nlm.nih.gov/42955617
 
-### 10. Trans-synaptic interaction of orphan GPCR GPR88 and adhesion GPCR BAI3 through C1ql1 maintains synapse integrity
+### 10. Striatofugal balance and beneficial effects of facilitating nucleus accumbens mGlu4 receptor activity in the Fmr1-/- mouse model of Fragile X Syndrome.
 
-- first/last authors: Ying Han ... Bo Zhang
-- venue/date: Science Advances / 2026-10-30
-- doi: 10.1126/sciadv.aec0867
-- pmid: 42950037
-- url: https://www.science.org/doi/10.1126/sciadv.aec0867
-
-### 11. mPFC-Dependent Valuation Shapes Information Sharing: Causal Evidence from tDCS and a Dyadic Social Media Paradigm.
-
-- first/last authors: Yuzhen Li ... Jinjin Wang
-- venue/date: Social cognitive and affective neuroscience / 2026-10-28
-- doi: 10.1093/scan/nsag088
-- pmid: 42949098
-- url: https://pubmed.ncbi.nlm.nih.gov/42949098
-
-### 12. Aquaporin-4 Antagonist Protects Against Acute Alcohol-Induced Behavioral Impairment.
-
-- first/last authors: Shaun James ... Olivia Smith
-- venue/date: Behavioural brain research / 2026-10-27
-- doi: 10.1016/j.bbr.2026.116543
-- pmid: 42946065
-- url: https://pubmed.ncbi.nlm.nih.gov/42946065
-
-### 13. Oromotor functional networks in the marmoset monkey.
-
-- first/last authors: Azadeh Jafari ... Stefan Everling
-- venue/date: Imaging neuroscience (Cambridge, Mass.) / 2026-10-26
-- doi: 10.1162/imag.a.1419
-- pmid: 42947993
-- url: https://pubmed.ncbi.nlm.nih.gov/42947993
+- first/last authors: Mathieu Fonteneau ... Julie Le Merrer
+- venue/date: Pharmacological research / 2026-10-28
+- doi: 10.1016/j.phrs.2026.109712
+- pmid: 42951119
+- url: https://pubmed.ncbi.nlm.nih.gov/42951119
