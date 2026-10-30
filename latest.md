@@ -1,87 +1,119 @@
-# Paper candidates for 2026-10-30
+# Paper candidates for 2026-10-31
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 10
-- records available privately: 10
+- records listed: 14
+- records available privately: 14
 
 ## Candidates
 
-### 1. Learning from Error Predictions Rather Than Prediction Errors: A Perspective on Self-Supervised Learning in the Brain.
+### 1. Bivalent habenula modulation of human monoaminergic midbrain and cortical pathways.
 
-- authors: Nicolas Meirhaeghe
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-28
-- doi: 10.1523/jneurosci.1809-25.2026
-- pmid: 42951374
-- url: https://pubmed.ncbi.nlm.nih.gov/42951374
+- first/last authors: Leah J Hudson ... Ben J Harrison
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-29
+- doi: 10.1523/jneurosci.0020-26.2026
+- pmid: 42957319
+- url: https://pubmed.ncbi.nlm.nih.gov/42957319
 
-### 2. Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila
+### 2. Macaque Area LIP Reflects Confidence-Dependent Changes in Decision Policy.
 
-- first/last authors: Kutscher, D. ... Nayebi, A.
-- venue/date: bioRxiv / 2026-10-27
-- doi: 10.64898/2026.10.26.761878
-- url: https://doi.org/10.64898/2026.10.26.761878
+- first/last authors: Mengyu Serene Tu ... Christopher R Fetsch
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-29
+- doi: 10.1523/jneurosci.0699-26.2026
+- pmid: 42957314
+- url: https://pubmed.ncbi.nlm.nih.gov/42957314
 
-### 3. Subthalamic Nucleus dynamically encodes reward value and cognitive flexibility
+### 3. It is what it is: A comparative fMRI study on the regulation of negative emotions via distraction, reappraisal, and acceptance.
 
-- first/last authors: Cornish, J. ... Collins, J.
-- venue/date: bioRxiv / 2026-10-27
-- doi: 10.64898/2026.10.25.761735
-- url: https://doi.org/10.64898/2026.10.25.761735
+- first/last authors: Alexander H J Sahm ... Daniela Mier
+- venue/date: Cognitive, affective & behavioral neuroscience / 2026-10-27
+- doi: 10.3758/s13415-026-01501-6
+- pmid: 42946910
+- url: https://pubmed.ncbi.nlm.nih.gov/42946910
 
-### 4. Memory erasure by dopamine-gated retrospective learning
+### 4. Divergent roles of orexin and dynorphin in modulating VTA dopamine projections to the BLA after morphine exposure
 
-- first/last authors: Jeong, H. ... Namboodiri, V. M. K.
-- venue/date: bioRxiv / 2026-10-27
-- doi: 10.64898/2026.01.17.700100
-- url: https://doi.org/10.64898/2026.01.17.700100
+- first/last authors: Mohammadkhani, A. ... Borgland, S. L.
+- venue/date: bioRxiv / 2026-10-28
+- doi: 10.64898/2026.10.24.761541
+- url: https://doi.org/10.64898/2026.10.24.761541
 
-### 5. Propofol Modulates Fear Memory Reconsolidation by Inhibiting D2 Receptor-Expressing Neurons in the Medial Prefrontal Cortex.
+### 5. Neural responses to dynamic versus static food cues: A pilot functional MRI study.
 
-- first/last authors: Jie Li ... Xiao-Na Zhu
-- venue/date: Advanced science (Weinheim, Baden-Wurttemberg, Germany) / 2026-10-28
-- doi: 10.1002/advs.78527
-- pmid: 42952178
-- url: https://pubmed.ncbi.nlm.nih.gov/42952178
+- first/last authors: Dabin Yeum ... Leticia E Sewaybricker
+- venue/date: PloS one / 2026-10-28
+- doi: 10.1371/journal.pone.0361667
+- pmid: 42949946
+- url: https://pubmed.ncbi.nlm.nih.gov/42949946
 
-### 6. Beyond Static Representations: Learning Electroencephalogram Spatiotemporal Dynamics for Enhanced Emotion Recognition.
+### 6. Mapping Lifespan Functional Connectivity with Vision Transformer and Attention-Guided Trajectory Analysis.
 
-- first/last authors: Ke Liu ... Wei Wu
-- venue/date: Cyborg and bionic systems (Washington, D.C.) / 2026-10-28
-- doi: 10.34133/cbsystems.0701
-- pmid: 42953001
-- url: https://pubmed.ncbi.nlm.nih.gov/42953001
+- first/last authors: Kangrim Cho ... Sanghoon Han
+- venue/date: International journal of neural systems / 2026-10-24
+- doi: 10.1142/s0129065727500304
+- pmid: 42935467
+- url: https://pubmed.ncbi.nlm.nih.gov/42935467
 
-### 7. Charitable giving with earned and windfall money: behavioral and ERP responses to donation-risk information.
+### 7. Impact of effort and expectancy on reward-related event-related potentials: Evidence from a novel effort and expectancy paradigm (EEP).
 
-- first/last authors: Jing Wang ... Peng Li
-- venue/date: Brain research / 2026-10-28
-- doi: 10.1016/j.brainres.2026.150613
-- pmid: 42951161
-- url: https://pubmed.ncbi.nlm.nih.gov/42951161
+- first/last authors: Nicholas J Santopetro ... Greg Hajcak
+- venue/date: Cognitive, affective & behavioral neuroscience / 2026-10-27
+- doi: 10.3758/s13415-026-01507-0
+- pmid: 42946911
+- url: https://pubmed.ncbi.nlm.nih.gov/42946911
 
-### 8. Detection of Age-Related Cognitive Decline Over Short Time Frames Using Digital Multiday Learning Assessments: Longitudinal Study.
+### 8. Emotional Content Enhances Attentional Tracking of Conversations through Context-Sensitive Modulation of Auditory-Language Networks.
 
-- first/last authors: Iris Blotenberg ... Rebecca E Amariglio
-- venue/date: JMIR aging / 2026-10-27
-- doi: 10.2196/100917
-- pmid: 42954140
-- url: https://pubmed.ncbi.nlm.nih.gov/42954140
+- first/last authors: Pyry Heikkinen ... Ville Johannes Harjunen
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-10-26
+- doi: 10.1523/jneurosci.0506-26.2026
+- pmid: 42933902
+- url: https://pubmed.ncbi.nlm.nih.gov/42933902
 
-### 9. SalientNet: mechanistic and reliable saliency maps for medical image classification via unsupervised learning.
+### 9. Improved motor learning in adenosine A1 receptor knockout mice.
 
-- first/last authors: Siddhaarth Sekar ... O K Sikha
-- venue/date: International journal of computer assisted radiology and surgery / 2026-10-29
-- doi: 10.1007/s11548-026-03812-y
-- pmid: 42955617
-- url: https://pubmed.ncbi.nlm.nih.gov/42955617
+- first/last authors: Maxx Freed ... Maxim Volgushev
+- venue/date: Neuroscience / 2026-10-29
+- doi: 10.1016/j.neuroscience.2026.10.041
+- pmid: 42957124
+- url: https://pubmed.ncbi.nlm.nih.gov/42957124
 
-### 10. Striatofugal balance and beneficial effects of facilitating nucleus accumbens mGlu4 receptor activity in the Fmr1-/- mouse model of Fragile X Syndrome.
+### 10. When emotion meets conflict: Additive but not synergistic effects in neural oscillatory activity.
 
-- first/last authors: Mathieu Fonteneau ... Julie Le Merrer
-- venue/date: Pharmacological research / 2026-10-28
-- doi: 10.1016/j.phrs.2026.109712
-- pmid: 42951119
-- url: https://pubmed.ncbi.nlm.nih.gov/42951119
+- first/last authors: Motoyuki Sanada ... Henk van Steenbergen
+- venue/date: International journal of psychophysiology : official journal of the International Organization of Psychophysiology / 2026-10-23
+- doi: 10.1016/j.ijpsycho.2026.113498
+- pmid: 42918260
+- url: https://pubmed.ncbi.nlm.nih.gov/42918260
+
+### 11. Mechanical properties of gummies are associated with threat-related behavior and neuroglial markers in mice.
+
+- first/last authors: Haruka Sasaki ... Hiromu Monai
+- venue/date: The journal of physiological sciences : JPS / 2026-10-23
+- doi: 10.1016/j.jphyss.2026.100114
+- pmid: 42950532
+- url: https://pubmed.ncbi.nlm.nih.gov/42950532
+
+### 12. Sleep-dependent DNA methylation remodeling in basolateral amygdala fear engrams.
+
+- first/last authors: Xinyue Chen ... X Shawn Liu
+- venue/date: Cell reports / 2026-10-28
+- doi: 10.1016/j.celrep.2026.118190
+- pmid: 42949914
+- url: https://pubmed.ncbi.nlm.nih.gov/42949914
+
+### 13. Flexible compression of sensory evidence makes human decisions more resilient to noisy neural computations
+
+- first/last authors: Drevet, J. ... Wyart, V.
+- venue/date: bioRxiv / 2026-10-28
+- doi: 10.64898/2026.10.27.762195
+- url: https://doi.org/10.64898/2026.10.27.762195
+
+### 14. Cortical pyramidal tract neurons constrain pathological dopaminergic motor responses
+
+- first/last authors: Atudorei, M. ... Rickhag, M.
+- venue/date: bioRxiv / 2026-10-28
+- doi: 10.64898/2026.10.27.758468
+- url: https://doi.org/10.64898/2026.10.27.758468
