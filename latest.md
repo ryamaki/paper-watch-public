@@ -1,63 +1,77 @@
-# Paper candidates for 2026-11-06
+# Paper candidates for 2026-11-07
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 7
-- records available privately: 7
+- records listed: 9
+- records available privately: 9
 
 ## Candidates
 
-### 1. Dissociable norepinephrine and dopamine representations during strategic decision-making and reward learning
+### 1. Multi-faceted role of dopamine afferents to the ventral pallidum in reward processing
 
-- first/last authors: Aloor, J. ... Duan, C. A.
-- venue/date: bioRxiv / 2026-11-03
-- doi: 10.64898/2026.10.31.763226
-- url: https://doi.org/10.64898/2026.10.31.763226
+- first/last authors: Williams-Spooner, M. ... Prasad, A. A.
+- venue/date: bioRxiv / 2026-11-04
+- doi: 10.64898/2026.11.03.763967
+- url: https://doi.org/10.64898/2026.11.03.763967
 
-### 2. Circuit regulation along an activity continuum shapes flexible and stable representations during learning
+### 2. Basal ganglia output guides decision-making by state destabilization
 
-- first/last authors: Yusufi, D. ... Gu, Y.
-- venue/date: bioRxiv / 2026-11-03
-- doi: 10.64898/2026.10.28.762663
-- url: https://doi.org/10.64898/2026.10.28.762663
+- first/last authors: Tanimoto, Y. ... Okamoto, H.
+- venue/date: bioRxiv / 2026-11-04
+- doi: 10.64898/2026.11.01.763532
+- url: https://doi.org/10.64898/2026.11.01.763532
 
-### 3. Photoentrainment as Bayesian Inference: How the central circadian clock may weight and integrate the intensity and wavelength of natural light to estimate astronomical time
+### 3. The ontogeny of hippocampal spatial memory is supported by postnatal Cajal-Retzius cells
 
-- first/last authors: Ball, D. m. ... Speekenbrink, M.
-- venue/date: bioRxiv / 2026-11-03
-- doi: 10.64898/2026.10.27.762184
-- url: https://doi.org/10.64898/2026.10.27.762184
+- first/last authors: Glaerum, I. L. ... Quattrocolo, G.
+- venue/date: bioRxiv / 2026-11-04
+- doi: 10.64898/2026.11.03.763868
+- url: https://doi.org/10.64898/2026.11.03.763868
 
-### 4. The Intention Code Model (NIKOM) as an Integrative Psychophysiological Framework for Cognition, Volition, and Religious Experience: A Theoretical Appraisal.
+### 4. Brain Decoding from a Deep Neural Network of Visual Memory Reveals the Maturation Trajectory of Memory Systems across Ages 3-7
 
-- authors: Murat Çinici
-- venue/date: Integrative psychological & behavioral science / 2026-11-05
-- doi: 10.1007/s12124-026-10046-9
-- pmid: 42986482
-- url: https://pubmed.ncbi.nlm.nih.gov/42986482
+- first/last authors: GUO, X. ... Bainbridge, W. A.
+- venue/date: bioRxiv / 2026-11-04
+- doi: 10.64898/2026.11.03.763814
+- url: https://doi.org/10.64898/2026.11.03.763814
 
-### 5. The interplay of neural networks enabling social interaction: Protocol of a multi-level, mixed-methods study of empathy and theory of mind.
+### 5. Concurrent metacognitive evaluation is dissociable from perceptual evidence accumulation in the parietal cortex
 
-- first/last authors: Philipp Kanske ... Lara Z Maliske
-- venue/date: BMC psychology / 2026-11-04
-- doi: 10.1186/s40359-026-05886-4
-- pmid: 42983863
-- url: https://pubmed.ncbi.nlm.nih.gov/42983863
+- first/last authors: Li, X. ... Yang, T.
+- venue/date: bioRxiv / 2026-11-04
+- doi: 10.64898/2026.11.01.759033
+- url: https://doi.org/10.64898/2026.11.01.759033
 
-### 6. Comparing MRI-based scoring systems for neuroprognostication in neonatal encephalopathy.
+### 6. Smiling Muscle Stimulation Alters Neural Processing During Emotional Face Comparison.
 
-- first/last authors: Michal Yaar ... Emily Wy Tam
-- venue/date: Pediatric research / 2026-11-04
-- doi: 10.1038/s41390-026-05607-y
-- pmid: 42982952
-- url: https://pubmed.ncbi.nlm.nih.gov/42982952
+- first/last authors: J Baker ... S Korb
+- venue/date: Social cognitive and affective neuroscience / 2026-11-06
+- doi: 10.1093/scan/nsag091
+- pmid: 42993076
+- url: https://pubmed.ncbi.nlm.nih.gov/42993076
 
-### 7. State-separated analysis for L-DOPA response in hemiparkinsonian 6-OHDA rats.
+### 7. Motivational Subdomains in Neurodevelopmental Disorders: A Heuristic Circuit Framework for Translational Validation.
 
-- first/last authors: Jinmo Kim ... Ji-Woong Choi
-- venue/date: Brain research bulletin / 2026-11-04
-- doi: 10.1016/j.brainresbull.2026.112200
-- pmid: 42982282
-- url: https://pubmed.ncbi.nlm.nih.gov/42982282
+- first/last authors: Mia X Trupiano ... Pradeep G Bhide
+- venue/date: Biological psychiatry. Cognitive neuroscience and neuroimaging / 2026-03-18
+- doi: 10.1016/j.bpsc.2026.03.006
+- pmid: 41856475
+- url: https://pubmed.ncbi.nlm.nih.gov/41856475
+
+### 8. A shared multi-feature population code for sensory reliability across mouse visual cortex.
+
+- first/last authors: Elizabeth M Edwards ... Maria C Dadarlat
+- venue/date: Cell reports / 2026-11-05
+- doi: 10.1016/j.celrep.2026.118236
+- pmid: 42993622
+- url: https://pubmed.ncbi.nlm.nih.gov/42993622
+
+### 9. Respiratory phase orchestrates human olfactory cortical dynamics.
+
+- first/last authors: Alisa Y Hathaway ... Todd P Coleman
+- venue/date: Proceedings of the National Academy of Sciences of the United States of America / 2026-11-06
+- doi: 10.1073/pnas.2619920123
+- pmid: 42993565
+- url: https://pubmed.ncbi.nlm.nih.gov/42993565
