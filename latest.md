@@ -1,108 +1,63 @@
-# Paper candidates for 2026-11-05
+# Paper candidates for 2026-11-06
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 14
-- records available privately: 14
+- records listed: 7
+- records available privately: 7
 
 ## Candidates
 
-### 1. Assessing reinforcement learning and vigor with an online decision-making battery
+### 1. Dissociable norepinephrine and dopamine representations during strategic decision-making and reward learning
 
-- first/last authors: Wenke, S. ... Guitart-Masip, M.
-- venue/date: bioRxiv / 2026-11-02
-- doi: 10.64898/2026.10.30.763028
-- url: https://doi.org/10.64898/2026.10.30.763028
+- first/last authors: Aloor, J. ... Duan, C. A.
+- venue/date: bioRxiv / 2026-11-03
+- doi: 10.64898/2026.10.31.763226
+- url: https://doi.org/10.64898/2026.10.31.763226
 
-### 2. Learning-dependent hippocampal-striatal reorganization during sequential decision-making in pigeons.
+### 2. Circuit regulation along an activity continuum shapes flexible and stable representations during learning
 
-- first/last authors: Lifang Yang ... Zhigang Shang
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-11-03
-- doi: 10.1523/jneurosci.1360-26.2026
-- pmid: 42977519
-- url: https://pubmed.ncbi.nlm.nih.gov/42977519
+- first/last authors: Yusufi, D. ... Gu, Y.
+- venue/date: bioRxiv / 2026-11-03
+- doi: 10.64898/2026.10.28.762663
+- url: https://doi.org/10.64898/2026.10.28.762663
 
-### 3. The human claustrum tracks uncertainty and prediction error
+### 3. Photoentrainment as Bayesian Inference: How the central circadian clock may weight and integrate the intensity and wavelength of natural light to estimate astronomical time
 
-- venue/date: Nature Neuroscience / 2026-11-04
-- doi: 10.1038/s41593-026-02471-1
-- url: https://www.nature.com/articles/s41593-026-02471-1
+- first/last authors: Ball, D. m. ... Speekenbrink, M.
+- venue/date: bioRxiv / 2026-11-03
+- doi: 10.64898/2026.10.27.762184
+- url: https://doi.org/10.64898/2026.10.27.762184
 
-### 4. Pooled versus Structured Inhibition Drives Stimulus Competition across Distinct Spatial Scales in the Superior Colliculus
+### 4. The Intention Code Model (NIKOM) as an Integrative Psychophysiological Framework for Cognition, Volition, and Religious Experience: A Theoretical Appraisal.
 
-- authors: Banerjee, A., Kothari, N. B., Mysore, S. P.
-- venue/date: Journal of Neuroscience / 2026-11-05
-- url: http://www.jneurosci.org/cgi/content/short/46/44/e2296252026
+- authors: Murat Çinici
+- venue/date: Integrative psychological & behavioral science / 2026-11-05
+- doi: 10.1007/s12124-026-10046-9
+- pmid: 42986482
+- url: https://pubmed.ncbi.nlm.nih.gov/42986482
 
-### 5. The neural basis of flavour–nutrient learning
+### 5. The interplay of neural networks enabling social interaction: Protocol of a multi-level, mixed-methods study of empathy and theory of mind.
 
-- first/last authors: James C. R. Grove ... Zachary A. Knight
-- venue/date: Nature / 2026-11-04
-- doi: 10.1038/s41586-026-11229-5
-- url: https://www.nature.com/articles/s41586-026-11229-5
+- first/last authors: Philipp Kanske ... Lara Z Maliske
+- venue/date: BMC psychology / 2026-11-04
+- doi: 10.1186/s40359-026-05886-4
+- pmid: 42983863
+- url: https://pubmed.ncbi.nlm.nih.gov/42983863
 
-### 6. Sex-Dependent Differences in Nucleus Accumbens Regulation of Aggression and Social Investigation
+### 6. Comparing MRI-based scoring systems for neuroprognostication in neonatal encephalopathy.
 
-- authors: Tremblay, J. T., Rego, K. N.
-- venue/date: Journal of Neuroscience / 2026-11-05
-- url: http://www.jneurosci.org/cgi/content/short/46/44/e0876262026
+- first/last authors: Michal Yaar ... Emily Wy Tam
+- venue/date: Pediatric research / 2026-11-04
+- doi: 10.1038/s41390-026-05607-y
+- pmid: 42982952
+- url: https://pubmed.ncbi.nlm.nih.gov/42982952
 
-### 7. Opioid-glutamate interactions modulate intrinsically rewarded communication in European starlings.
+### 7. State-separated analysis for L-DOPA response in hemiparkinsonian 6-OHDA rats.
 
-- first/last authors: Changjiu Zhao ... Lauren V Riters
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-11-03
-- doi: 10.1523/jneurosci.1131-26.2026
-- pmid: 42977518
-- url: https://pubmed.ncbi.nlm.nih.gov/42977518
-
-### 8. Natural predator-associated chemosignals evoke distinct spatiotemporal patterns of risk assessment and vomeronasal population responses
-
-- first/last authors: Wang, J. ... Meeks, J. P.
-- venue/date: bioRxiv / 2026-11-02
-- doi: 10.64898/2026.10.30.763133
-- url: https://doi.org/10.64898/2026.10.30.763133
-
-### 9. Feedback reliability modulates learning-related dynamics of midfrontal error monitoring
-
-- authors: Gawlowska, M.
-- venue/date: bioRxiv / 2026-11-02
-- doi: 10.64898/2026.10.30.762838
-- url: https://doi.org/10.64898/2026.10.30.762838
-
-### 10. Single-neuron encoding of rapidly learned visual information reshapes human perception
-
-- first/last authors: Marcelo Armendariz ... Gabriel Kreiman
-- venue/date: Nature Neuroscience / 2026-11-04
-- doi: 10.1038/s41593-026-02496-6
-- url: https://www.nature.com/articles/s41593-026-02496-6
-
-### 11. Replacing the neurons that Parkinson’s destroys
-
-- authors: Laura Dattaro
-- venue/date: Nature / 2026-11-04
-- doi: 10.1038/d41586-026-03166-0
-- url: https://www.nature.com/articles/d41586-026-03166-0
-
-### 12. Motor Expertise Combines Lower Task Engagement with Enhanced Error Sensitivity.
-
-- first/last authors: Pavel Filip ... Lubomír Vojtíšek
-- venue/date: Cerebellum (London, England) / 2026-11-04
-- doi: 10.1007/s12311-026-02100-4
-- pmid: 42980698
-- url: https://pubmed.ncbi.nlm.nih.gov/42980698
-
-### 13. Ancient DNA charts spread of Celtic and Germanic languages
-
-- first/last authors: Shamini Bundell ... Nick Petrić Howe
-- venue/date: Nature / 2026-11-04
-- doi: 10.1038/d41586-026-03582-2
-- url: https://www.nature.com/articles/d41586-026-03582-2
-
-### 14. A novel methodology for assessing reinforcement choice in primates under human care
-
-- first/last authors: Leiva, M. I. ... Lewis, T. R.
-- venue/date: bioRxiv / 2026-11-02
-- doi: 10.64898/2026.10.30.763045
-- url: https://doi.org/10.64898/2026.10.30.763045
+- first/last authors: Jinmo Kim ... Ji-Woong Choi
+- venue/date: Brain research bulletin / 2026-11-04
+- doi: 10.1016/j.brainresbull.2026.112200
+- pmid: 42982282
+- url: https://pubmed.ncbi.nlm.nih.gov/42982282
