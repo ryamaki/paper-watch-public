@@ -1,118 +1,100 @@
-# Paper candidates for 2026-11-12
+# Paper candidates for 2026-11-13
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 16
-- records available privately: 16
+- records listed: 12
+- records available privately: 12
 
 ## Candidates
 
-### 1. Late Integration of Prior Expectations during Precision-Weighted Perceptual Decisions
+### 1. Learning-associated flexibility of cortical taste coding is impaired in Shank3 knockout mice
 
-- authors: Gastrell, T., Rangelov, D., Mattingley, J. B.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e0612262026
+- first/last authors: Chi-Hong Wu ... Gina G Turrigiano
+- venue/date: eLife / 2026-11-12
+- doi: 10.7554/elife.108988
+- url: https://elifesciences.org/articles/108988
 
-### 2. Slow-timescale regulation of dopamine release governs recovery of a motivational drive over days
+### 2. SPOUT: An open-source hardware and software platform to study decision making while manipulating and recording from neural activity
 
-- authors: Praneel S. Sunkavalli, Joseph C. Madara, Jonnathan Singh Alvarado, Bettina F. Ventura, Jessica G. Baker, Paula K. Zhu, Lauren F. Christenson, Adriana Diaz, Janelle Chen, Evelyn Lazen, Luca Ravotto, Tommaso Patriarchi, Mark L. Andermann, Stephen X. Zhang
+- first/last authors: van den Boom, B. J. G. ... Sabatini, B. L.
+- venue/date: bioRxiv / 2026-11-10
+- doi: 10.64898/2026.08.21.746318
+- url: https://doi.org/10.64898/2026.08.21.746318
+
+### 3. Serotonin signaling in the rat prefrontal cortex is required for Retrieval-Induced Forgetting.
+
+- first/last authors: María Belén Zanoni ... Noelia V Weisstaub
+- venue/date: eNeuro / 2026-11-11
+- doi: 10.1523/eneuro.0293-26.2026
+- pmid: 43015092
+- url: https://pubmed.ncbi.nlm.nih.gov/43015092
+
+### 4. Cannabis addiction and cerebellum: A focus on endocannabinoid signaling and reward.
+
+- first/last authors: Fatemeh Darvishzadeh-Mahani ... Effat Ramshini
+- venue/date: Progress in neuro-psychopharmacology & biological psychiatry / 2026-11-11
+- doi: 10.1016/j.pnpbp.2026.112005
+- pmid: 43014536
+- url: https://pubmed.ncbi.nlm.nih.gov/43014536
+
+### 5. Learning to Navigate a Changing World: From Brain Systems to Novel Algorithms.
+
+- first/last authors: J Quinn Lee ... Ann M Hermundstad
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-11-11
+- doi: 10.1523/jneurosci.1331-26.2026
+- pmid: 43015117
+- url: https://pubmed.ncbi.nlm.nih.gov/43015117
+
+### 6. Sub-second dopamine reinforcement shapes juvenile social play
+
+- first/last authors: Xinfeng Chen ... Ying Li
+- venue/date: Cell / 2026-11-12
+- doi: 10.1016/j.cell.2026.10.040
+- url: https://www.cell.com/cell/fulltext/S0092-8674(26)01327-9
+
+### 7. An integrated single-cell and epigenomic resource for comparative analysis of the basal ganglia from BICAN
+
+- first/last authors: Wenjin Zhang ... Daofeng Li
+- venue/date: Cell Reports Methods / 2026-11-12
+- doi: 10.1016/j.crmeth.2026.101567
+- url: https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(26)00268-7
+
+### 8. Resuscitation using fresh-frozen plasma is associated with improved contextual fear memory in a non-TBI mouse model of trauma and hemorrhagic shock.
+
+- first/last authors: Hari Pradhyumnan ... Jillian R Richter
+- venue/date: The journal of trauma and acute care surgery / 2026-11-12
+- doi: 10.1097/ta.0000000000005226
+- pmid: 43019065
+- url: https://pubmed.ncbi.nlm.nih.gov/43019065
+
+### 9. Massive atlas of brain region linked to a host of diseases is the most detailed yet
+
+- authors: Miryam Naddaf
+- venue/date: Nature / 2026-11-12
+- doi: 10.1038/d41586-026-03565-3
+- url: https://www.nature.com/articles/d41586-026-03565-3
+
+### 10. Cross-Species Approaches to Understanding Human Cognition.
+
+- first/last authors: Elizabeth A Buffalo ... Merav Sabri
+- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-11-11
+- doi: 10.1523/jneurosci.1201-26.2026
+- pmid: 43015111
+- url: https://pubmed.ncbi.nlm.nih.gov/43015111
+
+### 11. Cognitive evaluation of brain organoids and assembloids.
+
+- first/last authors: Lucia Melloni ... Stanislas Dehaene
 - venue/date: Neuron / 2026-11-11
-- doi: 10.1016/j.neuron.2026.10.022
-- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00818-4
+- doi: 10.1016/j.neuron.2026.10.009
+- pmid: 43014282
+- url: https://pubmed.ncbi.nlm.nih.gov/43014282
 
-### 3. Learning to Navigate a Changing World: From Brain Systems to Novel Algorithms
+### 12. Shared experimental materials inflate and reorder cross-participant decoding benchmarks
 
-- authors: Lee, J. Q., Zutshi, I., Alexander, A. S., Hermundstad, A. M.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1331262026
-
-### 4. Emotional Content Enhances Attentional Tracking of Conversations through Context-Sensitive Modulation of Auditory-Language Networks
-
-- authors: Heikkinen, P., Lepisto&#x0308;, S., Wikman, P., Koskinen, E., Pera&#x0308;kyla&#x0308;, A., Ravaja, N., Harjunen, V. J.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e0506262026
-
-### 5. From Rapid Synaptic Events to Lasting Antidepressant States: Convergent and Divergent Mechanisms of Ketamine and Psychedelics
-
-- authors: Kim, J., Fogaca, M. V., Munguba, H., Pignatelli, M., Platholi, J., Woodburn, S. C., Ma (&#x9A6C;&#x632F;&#x4E2D;), Z. Z.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1198262026
-
-### 6. Human cognitive performance-associated gut microbiota influences learning and memory in mice through arginine and pterin metabolism.
-
-- first/last authors: Harry Tracey ... Josep M Del Bas
-- venue/date: Gut microbes / 2026-11-10
-- doi: 10.1080/19490976.2026.2750588
-- pmid: 43010179
-- url: https://pubmed.ncbi.nlm.nih.gov/43010179
-
-### 7. Revisiting Post-stimulus Theta Activity: Evidence for a Broadband Rather Than Narrowband Spectral Origin
-
-- authors: Vanneau, T., Quiquempoix, M., Voytek, B., Gyurkovics, M., Molholm, S.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1194262026
-
-### 8. Cross-Species Approaches to Understanding Human Cognition
-
-- authors: Buffalo, E. A., Cohen, M. R., Constantinidis, C., Kastner, S., Rudebeck, P. H., Sabri, M.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1201262026
-
-### 9. A Neuroscientific Prior-Guided Multi-View Network With Structured Channel Selection for EEG Emotion Recognition.
-
-- first/last authors: Wenjie Yu ... Lili Niu
-- venue/date: IEEE journal of biomedical and health informatics / 2026-11-11
-- doi: 10.1109/jbhi.2026.3752660
-- pmid: 43013438
-- url: https://pubmed.ncbi.nlm.nih.gov/43013438
-
-### 10. Mirroring emotional faces: Functional connectivity of the Mirror Neuron System in young children and adults.
-
-- first/last authors: Francesca Ferragina ... Margot J Taylor
-- venue/date: Social cognitive and affective neuroscience / 2026-11-10
-- doi: 10.1093/scan/nsag092
-- pmid: 43009203
-- url: https://pubmed.ncbi.nlm.nih.gov/43009203
-
-### 11. Six Challenges for a Mechanistic Science of Human Interoception
-
-- authors: Avidan, G., Allen, M. G., Khalsa, S. S., Nord, C. L., Petzschner, F. H., Rozenkrantz, L.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1178262026
-
-### 12. Illuminating the Diversity of Electrical Synapse Form and Function
-
-- authors: Bhattacharya, A., Haas, J. S., Lee, K. M., Pereda, A. E., Sigulinsky, C. L., Martin, E. A.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1196262026
-
-### 13. Embodied Computation: How Does Embodiment Impact Sensorimotor and Cognitive Processing?
-
-- authors: Schaffer, E. S., Saxena, S., Keller, R., Lazzari, J., McGill, M., Nayebi, A., Olivos-Castillo, I. C., Park, I. M., Perich, M. G., Pitkow, X., Turaga, S. C.
-- venue/date: Journal of Neuroscience / 2026-11-12
-- url: http://www.jneurosci.org/cgi/content/short/46/45/e1188262026
-
-### 14. Brain sustain partnerships: Equity-orientation and decolonization theory to promote Global North-Global South collaborations in health professions education.
-
-- first/last authors: Robin K Enns ... Denise Gastaldo
-- venue/date: PLOS global public health / 2026-11-11
-- doi: 10.1371/journal.pgph.0007630
-- pmid: 43013517
-- url: https://pubmed.ncbi.nlm.nih.gov/43013517
-
-### 15. Computational Modeling of Effort Allocation in First-Episode Psychosis and First-Episode Bipolar Disorder: Cognitive and Clinical Correlates.
-
-- first/last authors: Simge Uzman Ozbek ... Emre Bora
-- venue/date: Biological psychiatry. Cognitive neuroscience and neuroimaging / 2026-11-10
-- doi: 10.1016/j.bpsc.2026.10.016
-- pmid: 43009099
-- url: https://pubmed.ncbi.nlm.nih.gov/43009099
-
-### 16. Lateral orbitofrontal cortex enables new learning to overwrite previously acquired information
-
-- authors: Maedeh Mahmoudi, Joanne M. Gladding, Michael D. Kendig, Alessandro Castorina, Karly M. Turner, Octavia Soegyono, Laura A. Bradfield
-- venue/date: Current Biology / 2026-11-11
-- doi: 10.1016/j.cub.2026.10.040
-- url: https://www.cell.com/current-biology/fulltext/S0960-9822(26)01427-2
+- first/last authors: Cui, H. ... Xu, T.
+- venue/date: bioRxiv / 2026-11-10
+- doi: 10.64898/2026.10.07.757228
+- url: https://doi.org/10.64898/2026.10.07.757228
