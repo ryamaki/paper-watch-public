@@ -1,87 +1,101 @@
-# Paper candidates for 2026-11-20
+# Paper candidates for 2026-11-21
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 10
-- records available privately: 10
+- records listed: 12
+- records available privately: 12
 
 ## Candidates
 
-### 1. On the role of intrinsic rewards in cognitive evolution: the RewardING hypothesis.
+### 1. Information seeking decisions often follow information comparison dynamics in anterior cingulate, orbitofrontal and lateral prefrontal cortex.
 
-- authors: Serge Nataf
-- venue/date: Neuroscience and biobehavioral reviews / 2026-11-18
-- doi: 10.1016/j.neubiorev.2026.107098
-- pmid: 43051607
-- url: https://pubmed.ncbi.nlm.nih.gov/43051607
+- first/last authors: Xiaochen Zhao ... Paul Tiesinga
+- venue/date: Biological cybernetics / 2026-11-20
+- doi: 10.1007/s00422-026-01073-1
+- pmid: 43062500
+- url: https://pubmed.ncbi.nlm.nih.gov/43062500
 
-### 2. Neurocognitive signatures of intrinsic motivation in naturalistic information seeking and memory
+### 2. Disentangling tonic and phasic dopamine in fiber photometry from single recordings to cohorts
 
-- first/last authors: Su, H. ... Lee, H.
-- venue/date: bioRxiv / 2026-11-17
-- doi: 10.64898/2026.11.12.765917
-- url: https://doi.org/10.64898/2026.11.12.765917
+- first/last authors: Peytral, G. ... Abante, J.
+- venue/date: bioRxiv / 2026-11-18
+- doi: 10.64898/2026.11.16.767032
+- url: https://doi.org/10.64898/2026.11.16.767032
 
-### 3. Reinforced hippocampus-accumbens pathway marks a shift toward cognitive decline in aging.
+### 3. Pupil dynamics reflect uncertainty-driven adjustments of probability learning.
 
-- first/last authors: Aurore Ribera ... Paula A Pousinha
-- venue/date: Cell reports / 2026-11-19
-- doi: 10.1016/j.celrep.2026.118362
-- pmid: 43056236
-- url: https://pubmed.ncbi.nlm.nih.gov/43056236
+- first/last authors: Aaron Greenhouse-Tucknott ... Florent Meyniel
+- venue/date: PLoS computational biology / 2026-11-20
+- doi: 10.1371/journal.pcbi.1014064
+- pmid: 43063243
+- url: https://pubmed.ncbi.nlm.nih.gov/43063243
 
-### 4. The neural mechanisms of fast versus slow decision-making
+### 4. The dark and light sides of dynorphin and enkephalin: from reward to aversion.
 
-- authors: Mostafa Nashaat, Hatem Oraby, Flutra Krasniqi, Sek Teng Goh-Sauerbier, Marion Bosc, Sandra Koerner, Arina Lobova, Sedef Karayel, Adam Kepecs, Matthew E. Larkum
-- venue/date: Neuron / 2026-11-19
-- doi: 10.1016/j.neuron.2026.10.024
-- url: https://www.cell.com/neuron/fulltext/S0896-6273(26)00820-2
+- first/last authors: Marcelina Węzik ... Ana J Rodrigues
+- venue/date: Trends in neurosciences / 2026-11-19
+- doi: 10.1016/j.tins.2026.10.006
+- pmid: 43057930
+- url: https://pubmed.ncbi.nlm.nih.gov/43057930
 
-### 5. Distinct Amygdala-Frontopolar and Amygdala-Medial Temporal Pathways Support Temporal Memory for Emotional Events.
+### 5. Prefrontal mechanisms of threat-context integration in facial emotion recognition: the role of trait anxiety.
 
-- first/last authors: Jingyi Wang ... Regina C Lapate
-- venue/date: Journal of cognitive neuroscience / 2026-11-18
-- doi: 10.1162/jocn.a.2737
-- pmid: 43055513
-- url: https://pubmed.ncbi.nlm.nih.gov/43055513
+- first/last authors: Florian Bublatzky ... Markus Junghöfer
+- venue/date: Psychological medicine / 2026-11-20
+- doi: 10.1017/s0033291726106540
+- pmid: 43061892
+- url: https://pubmed.ncbi.nlm.nih.gov/43061892
 
-### 6. Time Between Learning Events Shapes Functional Connectivity in Spatial Memory: A Brain-Wide Analysis.
+### 6. Unveiling value functions in social cognition with multi-agent inverse reinforcement learning
 
-- first/last authors: Tommaso Gosetti di Sturmeck ... Andrea Mele
-- venue/date: Molecular neurobiology / 2026-11-19
-- doi: 10.1007/s12035-026-06318-5
-- pmid: 43055838
-- url: https://pubmed.ncbi.nlm.nih.gov/43055838
+- first/last authors: Chen, Y. ... Wu, H. Z.
+- venue/date: bioRxiv / 2026-11-18
+- doi: 10.1101/2024.10.09.617461
+- url: https://doi.org/10.1101/2024.10.09.617461
 
-### 7. Repeated sugar exposure reshapes cue-potentiated motivation without a detectable change in explicit valuation.
+### 7. Structure learning and context inference emerge from next-state prediction in a cerebellar-medial temporal lobe circuit
 
-- first/last authors: Kyle S Burger ... Emily S Finn
-- venue/date: Cell metabolism / 2026-11-18
-- doi: 10.1016/j.cmet.2026.10.018
-- pmid: 43051149
-- url: https://pubmed.ncbi.nlm.nih.gov/43051149
+- first/last authors: Bhatia, C. ... Amematsro, E. A.
+- venue/date: bioRxiv / 2026-11-18
+- doi: 10.64898/2026.11.14.765964
+- url: https://doi.org/10.64898/2026.11.14.765964
 
-### 8. Information-seeking behavior in mice (Mus musculus) during visual discriminations: Evaluating metacognitive and alternative accounts in a target-cueing paradigm.
+### 8. Developmental emergence of cue-specific fear memory parallels maturation of prefrontal-amygdala circuitry in mice
 
-- first/last authors: Yuya Hataji ... Kazuhiro Goto
-- venue/date: Journal of experimental psychology. Animal learning and cognition / 2026-11-19
-- doi: 10.1037/xan0000450
-- pmid: 43056084
-- url: https://pubmed.ncbi.nlm.nih.gov/43056084
+- first/last authors: Martina, V. ... Cummings, K. A.
+- venue/date: bioRxiv / 2026-11-18
+- doi: 10.64898/2026.11.16.767103
+- url: https://doi.org/10.64898/2026.11.16.767103
 
-### 9. Attenuated, Not Absent. Trusting Autonomous Systems Tracks Reliability More Closely, With Less Neural Engagement, Than Trusting Humans
+### 9. Cognitive control networks in human and macaque
 
-- first/last authors: Rogers, D. A. ... Ullsperger, M.
-- venue/date: bioRxiv / 2026-11-17
-- doi: 10.64898/2026.11.14.766654
-- url: https://doi.org/10.64898/2026.11.14.766654
+- first/last authors: Daniel J Mitchell ... Valentina Mione
+- venue/date: eLife / 2026-11-20
+- doi: 10.7554/elife.111502
+- pmid: 43063217
+- url: https://elifesciences.org/articles/111502
 
-### 10. Why and When to Adjust for Intracranial Volume in Structural Brain Imaging.
+### 10. Neurocognition of dance: Guidelines for using dance as model behavior and research subject in cognitive neuroscience.
 
-- first/last authors: Anna E Fürtjes ... Simon R Cox
-- venue/date: The Journal of neuroscience : the official journal of the Society for Neuroscience / 2026-11-18
-- doi: 10.1523/jneurosci.0714-26.2026
-- pmid: 43051995
-- url: https://pubmed.ncbi.nlm.nih.gov/43051995
+- first/last authors: Vasiliki Meletaki ... Andrea Orlandi
+- venue/date: iScience / 2026-11-02
+- doi: 10.1016/j.isci.2026.117810
+- pmid: 43022242
+- url: https://pubmed.ncbi.nlm.nih.gov/43022242
+
+### 11. From brain drain to system overload: a conceptual framework for public-sector health-worker attrition as endogenous organisational overload in South Africa.
+
+- first/last authors: Joyce Ayeni ... Sanjana Brijball Parumasur
+- venue/date: Global health action / 2026-11-20
+- doi: 10.1080/16549716.2026.2766661
+- pmid: 43059501
+- url: https://pubmed.ncbi.nlm.nih.gov/43059501
+
+### 12. Long-lasting chromatin and transcriptional states shape the maintenance of memory ensembles
+
+- first/last authors: Vogel, I. R. ... Traunmueller, L.
+- venue/date: bioRxiv / 2026-11-18
+- doi: 10.64898/2026.11.16.767121
+- url: https://doi.org/10.64898/2026.11.16.767121
