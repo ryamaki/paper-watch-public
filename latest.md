@@ -1,47 +1,53 @@
-# Paper candidates for 2026-11-22
+# Paper candidates for 2026-11-23
 
 Public metadata index for ChatGPT Task. Abstracts and scoring details are intentionally omitted.
 
 ## Summary
 
-- records listed: 5
-- records available privately: 5
+- records listed: 6
+- records available privately: 6
 
 ## Candidates
 
-### 1. Reactive, subjective and executive agents: How survival circuits underlie the expansion of subjective experience and felt motivation in humans and other vertebrates.
+### 1. Trial history and model-derived reward prediction errors in mousevisual decisions
 
-- first/last authors: Jarl Giske ... Christian Jørgensen
-- venue/date: Neuroscience and biobehavioral reviews / 2026-11-20
-- doi: 10.1016/j.neubiorev.2026.107108
-- pmid: 43064006
-- url: https://pubmed.ncbi.nlm.nih.gov/43064006
+- first/last authors: Mirabedini, A. ... Khanteymoori, A.
+- venue/date: bioRxiv / 2026-11-20
+- doi: 10.64898/2026.11.19.767881
+- url: https://doi.org/10.64898/2026.11.19.767881
 
-### 2. Dopamine dynamics in a mouse model of temporal lobe seizures with impaired consciousness.
+### 2. How reliable is the link between effort and nucleus accumbens connectivity at rest? A psychometric evaluation of repeated assessments
 
-- first/last authors: Yang Zheng ... Hal Blumenfeld
-- venue/date: Epilepsia / 2026-11-20
-- doi: 10.1002/epi.70575
-- pmid: 43064665
-- url: https://pubmed.ncbi.nlm.nih.gov/43064665
+- first/last authors: Karlocai, Z. ... Kroemer, N. B.
+- venue/date: bioRxiv / 2026-11-20
+- doi: 10.64898/2026.11.19.767858
+- url: https://doi.org/10.64898/2026.11.19.767858
 
-### 3. Tonic dopamine regulates cell-type-specific PKA activity and motivated behavior
+### 3. BrainRoute integrates machine learning prediction with community-driven verification of blood-brain barrier permeability
 
-- first/last authors: Lodder, B. ... Sabatini, B. L.
-- venue/date: bioRxiv / 2026-11-19
-- doi: 10.64898/2026.11.18.767692
-- url: https://doi.org/10.64898/2026.11.18.767692
+- first/last authors: Shirolkar, S. A. ... Awe, O. I.
+- venue/date: bioRxiv / 2026-11-20
+- doi: 10.64898/2026.11.19.767839
+- url: https://doi.org/10.64898/2026.11.19.767839
 
-### 4. Children and adults use distinct neurocognitive mechanisms to support successful memory-based inference
+### 4. Brain-inspired low-rank spiking neural networks for aircraft control with manifold representation reinforcement learning.
 
-- first/last authors: Coughlin, C. ... Preston, A. R.
-- venue/date: bioRxiv / 2026-11-19
-- doi: 10.64898/2026.04.21.719709
-- url: https://doi.org/10.64898/2026.04.21.719709
+- first/last authors: Haitao Yu ... Xiaodong Liu
+- venue/date: Cognitive neurodynamics / 2026-11-20
+- doi: 10.1007/s11571-026-10604-2
+- pmid: 43067935
+- url: https://pubmed.ncbi.nlm.nih.gov/43067935
 
-### 5. The Computational and Neural Basis of Zero-Shot Control in Dynamic Pursuit
+### 5. Neural Circuit Mechanisms of Representation Transformation in Sequential Economic Choice
 
-- first/last authors: Kim, D. ... Yoo, S. B. M.
-- venue/date: bioRxiv / 2026-11-19
-- doi: 10.64898/2026.03.30.715455
-- url: https://doi.org/10.64898/2026.03.30.715455
+- first/last authors: Gu, J. ... Lim, S.
+- venue/date: bioRxiv / 2026-11-20
+- doi: 10.1101/2025.08.29.673193
+- url: https://doi.org/10.1101/2025.08.29.673193
+
+### 6. When Velocity Becomes Position: Proprioceptive Contributions to State Estimation
+
+- first/last authors: Mortensen, E. S. ... Christensen, M. S.
+- venue/date: bioRxiv / 2026-11-20
+- doi: 10.64898/2026.01.09.698577
+- url: https://doi.org/10.64898/2026.01.09.698577
